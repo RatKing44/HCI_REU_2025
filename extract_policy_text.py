@@ -69,9 +69,7 @@ def save_to_file(text, filename):
             f.write(text)
     except IOError as e:
         print(f"[!] Error saving file '{filename}' : {e}")
-        i = 2
-        save_to_file(text, filename.replace('.txt', '_' + i + '.txt'))
-        ++i
+        save_to_file(text, filename.replace('.txt', '_dupe.txt'))
         return -1
     
 
