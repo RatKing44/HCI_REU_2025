@@ -40,7 +40,7 @@ def spache(text, easy_words):
     except LookupError:
         nltk.download('punkt')
         num_sentences = len(sent_tokenize(text))
-    num_spache_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words])
+    num_spache_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words]) # number of words not in easy word list
 
     avg_sentence_len = num_words / num_sentences
     percent_difficult_words = num_spache_complex / num_words * 100
@@ -49,7 +49,13 @@ def spache(text, easy_words):
 
 
 def spache_allen(text):
-    spache_path = "spache_easy.txt"
+    word_list = "else"
+    if word_list == "8grade":
+        spache_path = "spache_easy_8th_grade.txt"
+    elif word_list == "13yo":
+        spache_path = "spache_easy_13.txt"
+    else:
+        spache_path = "spache_easy.txt"
     with open(spache_path) as f:
         easy_words = set(line.strip() for line in f)
 
