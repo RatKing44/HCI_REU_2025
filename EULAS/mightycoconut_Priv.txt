@@ -1,9 +1,9 @@
-PrivacyPolicy — Mighty Coconut
+PrivacyPolicy   Mighty Coconut
 Sign In
 My Account
 Back
-Walkabout Mini Golf®
-57° North
+Walkabout Mini Golf 
+57  North
 Laser Mazer
 Back
 The OceanMaker
@@ -28,7 +28,7 @@ means a software program provided by the Company downloaded by You on any electr
 Business
 , for the purpose of the CCPA (California Consumer Privacy Act), refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information, or on behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers' personal information, that does business in the State of California.
 Company
-(referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Mighty Coconut®, LLC
+(referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Mighty Coconut , LLC
 For the purpose of the GDPR, the Company is the Data Controller.
 Consumer
 , for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose.
@@ -41,7 +41,7 @@ means any device that can access the Service such as a computer, a cellphone or 
 Do Not Track
 (DNT) is a concept that has been promoted by US regulatory authorities, in particular the U.S. Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing internet users to control the tracking of their online activities across websites.
 Facebook Fan Page
-is a public profile named Mighty Coconut® specifically created by the Company on the Facebook social network, accessible from https://www.facebook.com/mightycoconut
+is a public profile named Mighty Coconut  specifically created by the Company on the Facebook social network, accessible from https://www.facebook.com/mightycoconut
 Personal Data
 is any information that relates to an identified or identifiable individual.
 For the purposes for GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity.
@@ -98,7 +98,7 @@ Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 Transfer of Your Personal Data
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to   and maintained on   computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 Disclosure of Your Personal Data
@@ -184,7 +184,7 @@ Please note that the categories and examples provided in the list below are thos
 Category A: Identifiers.
 Examples: A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, driver's license number, passport number, or other similar identifiers.
 Collected: Yes.
-Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code   1798.80(e)).
 Examples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories.
 Collected: Yes.
 Category C: Protected classification characteristics under California or federal law.
@@ -244,7 +244,7 @@ If We decide to collect additional categories of personal information or use the
 Disclosure of Personal Information for Business Purposes or Commercial Purposes
 We may use or disclose and may have used or disclosed in the last twelve (12) months the following categories of personal information for business or commercial purposes:
 Category A: Identifiers
-Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code   1798.80(e))
 Category D: Commercial information
 Category F: Internet or other similar network activity
 Please note that the categories listed above are those defined in the CCPA. This does not mean that all examples of that category of personal information were in fact disclosed, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be and may have been disclosed.
@@ -280,7 +280,7 @@ Complete the transaction for which We collected the personal information, provid
 Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
 Debug products to identify and repair errors that impair existing intended functionality.
 Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+Comply with the California Electronic Communications Privacy Act (Cal. Penal Code   1546 et. seq.).
 Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if You previously provided informed consent.
 Enable solely internal uses that are reasonably aligned with consumer expectations based on Your relationship with Us.
 Comply with a legal obligation.
@@ -344,11 +344,11 @@ Review, correct or delete the child's personal information
 Discontinue further collection or use of the child's personal information
 To make such a request, You can write to Us using the contact information provided in this Privacy Policy.
 SMS Privacy Policy
-This SMS Privacy Policy explains how Mighty Coconut, LLC (“we” or the “Company”) collects, uses, discloses, and safeguards your personal information when you interact with our SMS Text Message service, specifically with respect to the laws of the United States of America.
+This SMS Privacy Policy explains how Mighty Coconut, LLC ( we  or the  Company ) collects, uses, discloses, and safeguards your personal information when you interact with our SMS Text Message service, specifically with respect to the laws of the United States of America.
 By using our service, you consent to the practices described in this SMS Privacy Policy, and represent and warrant that
 you are at least 16 years of age
 .
-Mobile Internet access is required. You represent that you are legally competent and have legal authority to form a contract and provide this consent with regard to the phone number you provide and that you reside in the United States. You may not consent on behalf of someone else or provide someone else’s phone number.
+Mobile Internet access is required. You represent that you are legally competent and have legal authority to form a contract and provide this consent with regard to the phone number you provide and that you reside in the United States. You may not consent on behalf of someone else or provide someone else s phone number.
 Information We Collect
 When you subscribe to our SMS messaging service, we collect certain personal information, such as your mobile phone number, your mobile phone provider, your name and contact information to provide you with our services. We collect information about your interactions with our SMS messages, such as the content of the messages you send or receive, and the date, time and content of such messages.
 We may automatically collect information about the mobile device used to receive SMS messages, including device type, operating system, and mobile network information. This information is collected solely for the purpose of improving our service delivery and user experience.
@@ -365,7 +365,7 @@ With vendors, consultants and other service providers who process your informati
 With our corporate affiliates, and third parties in the context of the sale of our business or its assets, corporate restricting or liquidation (as applicable), and otherwise to the extent permitted or required by applicable law; and
 We may be legally required to disclose or share information we collect without your consent in some circumstances, for example, to comply with a court order or law enforcement. In such circumstances, we will only disclose your information if we have a good faith belief that such disclosure is required under applicable legal obligations.
 Please note that your wireless carrier may also collect data about your wireless device usage, and its practices are governed by its own policies.
-Children’s Privacy
+Children s Privacy
 This SMS messaging service is not intended for use by individuals under the age of 16. We do not knowingly collect personal information from children without parental consent. If you believe we have collected information from a child, please contact us to have it removed.
 How to Unsubscribe
 You may unsubscribe to this SMS messaging service through a link we include on messages we send you. You may also ask us to stop sending you marketing messages at any time by contacting us at info@mightycoconut.com.
@@ -373,7 +373,7 @@ You may opt out of receiving text messages at any time by texting STOP to our te
 Retention and Deletion of Information
 Your information will not be kept longer than is necessary for the specific purpose(s) for which it was collected. When we decide how long to retain information, we consider the amount, nature and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure, why we need it, and any relevant legal requirements. We may, however, retain information if it is necessary to comply with our legal obligations, in order to file a legal claim or defend ourselves against a legal claim, or for evidentiary purposes.
 Fees and Charges
-Please note that your mobile provider’s message and data rates may apply to our confirmation SMS message and all subsequent SMS message correspondence according to your individual rate plan provided by your wireless carrier. Please consult your mobile service carrier’s pricing plan to determine the charges for browsing data and sending and receiving SMS messages. Under no circumstances will we or our affiliates be responsible for any SMS messaging or wireless charges incurred by you or by a person that has access to your wireless device or telephone number. If your carrier does not permit SMS messages, you may not receive the SMS messages. Neither we nor the wireless carriers will be liable for any delays in the receipt of, or failure to deliver, any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an “AS IS” basis.
+Please note that your mobile provider s message and data rates may apply to our confirmation SMS message and all subsequent SMS message correspondence according to your individual rate plan provided by your wireless carrier. Please consult your mobile service carrier s pricing plan to determine the charges for browsing data and sending and receiving SMS messages. Under no circumstances will we or our affiliates be responsible for any SMS messaging or wireless charges incurred by you or by a person that has access to your wireless device or telephone number. If your carrier does not permit SMS messages, you may not receive the SMS messages. Neither we nor the wireless carriers will be liable for any delays in the receipt of, or failure to deliver, any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an  AS IS  basis.
 Changes to SMS Privacy Policy
 We may update this SMS Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any updates will be posted at https://www.mightycoconut.com/privacypolicy.
 Contact Us

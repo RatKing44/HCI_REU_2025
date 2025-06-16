@@ -1,13 +1,13 @@
-Privacy Policy — Resolution Games
+Privacy Policy   Resolution Games
 0
 PRIVACY POLICY
 RESOLUTION GAMES
-In this privacy policy (“
+In this privacy policy ( 
 Privacy Policy
-”), it is described how Resolution Games AB including its affiliates
-(“
+ ), it is described how Resolution Games AB including its affiliates
+( 
 Resolution Games
-”) Processes Personal Data. For more information and/or to exercise rights as a Data Subject, contact information to Resolution Games can be found under Contact Information.
+ ) Processes Personal Data. For more information and/or to exercise rights as a Data Subject, contact information to Resolution Games can be found under Contact Information.
 The law in some jurisdictions may provide you with additional rights regarding our use of Personal Data. To learn more about any additional rights that may be applicable to you as a resident of one of these jurisdictions, please see the privacy addendum for your jurisdiction that is attached to this Privacy Policy.
 If you are located in California, you have additional rights described in our Privacy Policy Addendum for California Residents
 Attachment 1
@@ -23,7 +23,7 @@ means anyone who Processes Personal Data on behalf of a Data Controller.
 Data Controller
 means a legal entity, who alone or jointly with others, determines the purposes and means of the Processing of Personal Data.
 Data Protection Legislation
-means the applicable data protection legislation such as Regulation (EU) 2016/679 (General Data Protection Regulation; the “GDPR”) and any other applicable data protection legislation.
+means the applicable data protection legislation such as Regulation (EU) 2016/679 (General Data Protection Regulation; the  GDPR ) and any other applicable data protection legislation.
 EU/EEA
 means the European Union/European Economic Area.
 Personal Data
@@ -33,14 +33,14 @@ means any operation or set of operations performed with regard to Personal Data,
 Recipient
 means a natural or legal person, public authority or another body, to whom Personal Data may be disclosed to by Resolution Games.
 Services
-means any of Resolution Games’ services and/or games as well as communications provided on Resolution Games’ websites and other electronic channels.
+means any of Resolution Games  services and/or games as well as communications provided on Resolution Games  websites and other electronic channels.
 General
-This Privacy Policy describes how Resolution Games AB as a Data Controller Processes User’s Personal Data on a general level. Specific information about further Processing can be found in separate agreements, websites or other documents related to Resolution Games.
+This Privacy Policy describes how Resolution Games AB as a Data Controller Processes User s Personal Data on a general level. Specific information about further Processing can be found in separate agreements, websites or other documents related to Resolution Games.
 Resolution Games may need to Process Personal Data in order to provide the Services to the Users, fulfil legal obligation or for the performance of agreements. If a User chooses not to provide or submit Personal Data in the Services, it may prevent Resolution Games to fulfilling the abovementioned obligations. In some cases, Users may not be able to use and access the Services, such as multiplayer features of the games provided by Resolution Games.
 Resolution Games ensures the confidentiality of Personal Data and has implemented appropriate technical and organizational measures to safeguard Personal Data from unathorized access, unlawful disclosure, accidental loss, modification, destruction or any other unlawful Processing.
 Resolution Games may use approved Data Processors for Processing Personal Data. Resolution Games ensures that Data Processors Process Personal Data under documented instructions of Resolution Games which are in accordance with adequate and required security measures in accordance with Data Protection Legislation.
 Personal Data of children
-The Services are not directed or intended for children and Resolution Games does not knowingly collect Personal Data from children under 18 years old in the Services. Resolution Games prohibits submission of Personal Data by children, unless sent under the supervision of their parent or guardian. It is important to safeguard the privacy of children and Resolution Games encourages parents to regularly monitor their children’s use of online activities. Resolution Games will promptly delete Personal Data submitted by children unless legally obligated to retain such data.
+The Services are not directed or intended for children and Resolution Games does not knowingly collect Personal Data from children under 18 years old in the Services. Resolution Games prohibits submission of Personal Data by children, unless sent under the supervision of their parent or guardian. It is important to safeguard the privacy of children and Resolution Games encourages parents to regularly monitor their children s use of online activities. Resolution Games will promptly delete Personal Data submitted by children unless legally obligated to retain such data.
 Resolution Games requests that any parents to children under the age of 18 that may have submitted Personal Data to make contact at
 privacy@resolutiongames.com
 .
@@ -51,8 +51,8 @@ Any improper collection or misuse of User Created Content or information provide
 privacy@resolutiongames.com
 .
 Collection of Personal Data and categories of Data Subjects
-Resolution Games primarily collects from and Processes Personal Data of Users of the Services, such as players of the games provided by Resolution Games. Personal Data may be collected from Users directly, by User’s submission of Personal Data and/or automatically from the use of the Services. Resolution Games may also save electronic communications or otherwise document Resolution Games’ interaction and communication with Users in various electronic channels. Resolution Games also collects non-personal identifiable information, such as anonymous gameplay data and statistical information, derived from the Services, in order to improve the Services.
-Resolution Games also collects and Processes Personal Data from prospect customers, agents, legal representatives, corporate representatives, signatories, shareholders, contact persons, board members, job applicants and visitors of Resolution Games’ offices. For job applicants, please also see the privacy policy available on Resolution Games’ job applications website.
+Resolution Games primarily collects from and Processes Personal Data of Users of the Services, such as players of the games provided by Resolution Games. Personal Data may be collected from Users directly, by User s submission of Personal Data and/or automatically from the use of the Services. Resolution Games may also save electronic communications or otherwise document Resolution Games  interaction and communication with Users in various electronic channels. Resolution Games also collects non-personal identifiable information, such as anonymous gameplay data and statistical information, derived from the Services, in order to improve the Services.
+Resolution Games also collects and Processes Personal Data from prospect customers, agents, legal representatives, corporate representatives, signatories, shareholders, contact persons, board members, job applicants and visitors of Resolution Games  offices. For job applicants, please also see the privacy policy available on Resolution Games  job applications website.
 Resolution Games may also collect Personal Data from other sources, such as third party sites or platforms, newspapers, blogs, instant messaging services in order to improve and provide the Services as well as a more personalized experience. Resolution Games will in some cases ask for email addresses for sales and marketing purposes.
 Categories of Personal Data
 The main categories of Personal Data Processed by Resolution Games include:
@@ -68,17 +68,17 @@ Resolution Games Processes Personal Data to fulfil obligations in agreements wit
 Legal obligations
 Resolution Games Processes Personal Data in order to fulfil legal obligations imposed by regulators. Examples of purposes for Processing are to identify Users in order to make sure that Resolution Games does not collect Personal Data from children aswell as to comply to book keeping obligations.
 Consent
-Resolution Games Processes Personal Data in some cases when Users have provided their consent to it and the provided consent can always be withdrawn. An example of purpose for Processing is when subscribing to Resolution Games’ newsletter.
+Resolution Games Processes Personal Data in some cases when Users have provided their consent to it and the provided consent can always be withdrawn. An example of purpose for Processing is when subscribing to Resolution Games  newsletter.
 Legitimate interest
-Resolution Games Processes Personal Data based on Resolution Games’ legitimate interest. Resolution Games have concluded this Processing necessary for the interest pursued by Resolution Games, which outweighs the User’s interest of protection of the Personal Data. Examples of purposes for Processing are to improve the Services, to provide personalized offers and direct marketing and to organize competitions and campaigns.
+Resolution Games Processes Personal Data based on Resolution Games  legitimate interest. Resolution Games have concluded this Processing necessary for the interest pursued by Resolution Games, which outweighs the User s interest of protection of the Personal Data. Examples of purposes for Processing are to improve the Services, to provide personalized offers and direct marketing and to organize competitions and campaigns.
 Cookies
-Cookies are used by Resolution Games for different purposes when visiting Resolution Games’ websites. All cookies used are listed in the
+Cookies are used by Resolution Games for different purposes when visiting Resolution Games  websites. All cookies used are listed in the
 Cookie Declaration
-available on Resolution Games’ website.
+available on Resolution Games  website.
 Links to third-party platforms
 Resolution Games may provide links to third-party platforms where Users can purchase games developed by Resolution Games. These links are known as affiliate links, and Resolution Games may be compensated when Users use these links to make a purchase. When you click on an affiliate link and make a purchase, the third-party platform may use cookies or other tracking technologies to track your purchases and ensure that Resolution Games receives credit for the referral. These third-party platforms have their own privacy policies, and you are encouraged to review them to understand how Personal Data may be collected and used.
 Recipients of Personal Data
-Based on the legal bases and the purposes for Processing by Resolution Games, Resolution Games may share User’s Personal Data with Recipients to Process Personal Data as a Data Processor. Resolution Games will only share necessary Personal Data for the purposes of the disclosure and never for the Recipients own purposes. Further, Resolution Games will only share Personal Data if the Recipients have ensured an adequate level of protection of the Personal Data in accordance with Data Protection Legislation. Resolution Games may also share anonymous or aggregated information, or other data that is not considered Personal Data with third parties, for example personas on leaderboards or to show trends about the use of Resolution Games’ Services.
+Based on the legal bases and the purposes for Processing by Resolution Games, Resolution Games may share User s Personal Data with Recipients to Process Personal Data as a Data Processor. Resolution Games will only share necessary Personal Data for the purposes of the disclosure and never for the Recipients own purposes. Further, Resolution Games will only share Personal Data if the Recipients have ensured an adequate level of protection of the Personal Data in accordance with Data Protection Legislation. Resolution Games may also share anonymous or aggregated information, or other data that is not considered Personal Data with third parties, for example personas on leaderboards or to show trends about the use of Resolution Games  Services.
 Third party agents/contractors/developers
 .
 Support desk
@@ -93,13 +93,13 @@ Personal Data: Player data, user ID, player progression and settings, logs
 Marketing services
 Recipient name: Mailchimp and Gleam
 Personal Data: email address and name
-Where applicable the Recipient’s Processing of Personal Data will not be covered by this Privacy Policy. In such instances you must review such Recipients’ privacy policies.
+Where applicable the Recipient s Processing of Personal Data will not be covered by this Privacy Policy. In such instances you must review such Recipients  privacy policies.
 Location of Processing
 In some cases Resolution Games may transfer and share Personal Data to third parties (including service providers operating on behalf of Resolution Games) which may be located in countries outside the EU/EEA which may not have the same level of data protection laws as those in the country where the User is located. Where Personal Data is transferred to a country outside the EU/EEA that is not subject to an adequacy Data Protection Legislation, the transfer will only occur if there are appropriate safeguards in place such as (i) an agreement with the EU Standard Contractual Clauses, code of conducts, certifications or other clauses compliant and in accordance with Data Protection Legislation, or (ii) the country outside EU/EEA has an adequate level of data protection as approved by the EU Commission.
 Retention period of Personal Data
-Resolution Games will not retain Personal Data longer than necessary for the purposes for the Processing carried out by Resolution Games unless required by Data Protection Legislation.  Resolution Games may need to retain Personal Data in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules. Personal Data is deleted or anonymized by Resolution Games as soon as it no longer serves the purpose it was collected and Processed for.
-Data Subject’s rights
-User’s have the following general rights as Data Subjects regarding the Processing of Personal Data carried out by Resolution Games:
+Resolution Games will not retain Personal Data longer than necessary for the purposes for the Processing carried out by Resolution Games unless required by Data Protection Legislation.  Resolution Games may need to retain Personal Data in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules. Personal Data is deleted or anonymized by Resolution Games as soon as it no longer serves the purpose it was collected and Processed for.
+Data Subject s rights
+User s have the following general rights as Data Subjects regarding the Processing of Personal Data carried out by Resolution Games:
 Right to correction
 meaning the Users can request to correct the Personal Data if the Personal Data is incorrect, incomplete or inadequate.
 Right to objection
@@ -125,11 +125,11 @@ This Privacy Policy applies to all Personal Data collected or provided to Resolu
 Contact information
 For any questions, complaints or comments regarding our Privacy Policy, or to exercise the rights as a Data Subject, please contact Resolution Games at:
 Resolution Games AB
-Södermalmsallén 36
+S dermalmsall n 36
 118 28 Stockholm, Sweden
 Email:
 privacy@resolutiongames.com
-To lodge a complaint or contact the Swedish Authority for Privacy Protection regarding Resolution Games’ Processing of  Personal Data.
+To lodge a complaint or contact the Swedish Authority for Privacy Protection regarding Resolution Games  Processing of  Personal Data.
 Phone: 08-657 61 00
 Mail: Integritetsskyddsmyndigheten
 Box 8114
@@ -145,10 +145,10 @@ Effective Date:
 25 April 2023
 Last Updated Date:
 25 April 2023
-This Privacy Addendum for California Residents supplements the information contained in Resolution Games’ ("we”, “us” or “our”) Privacy Policy and applies solely to all visitors, users, and others who reside in the State of California (“consumers” or “you”). Any terms we use in the Privacy Policy without defining them have the same definition given to them in the Privacy Policy.
-We adopt this addendum to comply with the California Consumer Privacy Act of 2018 and the California Privacy Rights Act of 2020 (collectively, “CA Privacy Acts”) and any terms defined in the CA Privacy Acts have the same meaning when used in this addendum.
+This Privacy Addendum for California Residents supplements the information contained in Resolution Games  ("we ,  us  or  our ) Privacy Policy and applies solely to all visitors, users, and others who reside in the State of California ( consumers  or  you ). Any terms we use in the Privacy Policy without defining them have the same definition given to them in the Privacy Policy.
+We adopt this addendum to comply with the California Consumer Privacy Act of 2018 and the California Privacy Rights Act of 2020 (collectively,  CA Privacy Acts ) and any terms defined in the CA Privacy Acts have the same meaning when used in this addendum.
 Information We Collect
-We collect information that identifies, relates to describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household (“personal information”). Personal information does not include (i) publicly available information from government records, (ii) anonymized or aggregated consumer information, or (iii) information excluded from the CA Privacy Acts’ scope. In particular, we have collected the following categories of personal information from our consumers within the last twelve (12) months:
+We collect information that identifies, relates to describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household ( personal information ). Personal information does not include (i) publicly available information from government records, (ii) anonymized or aggregated consumer information, or (iii) information excluded from the CA Privacy Acts  scope. In particular, we have collected the following categories of personal information from our consumers within the last twelve (12) months:
 We collect most of this personal information directly from you when you use our website and Services or contact us. However, we may also collect information from the following categories of sources:
 Third parties (e.g., advertising networks, internet service providers, and social networks).
 Third parties with your consent (e.g., your bank).
@@ -193,8 +193,8 @@ Complete the transaction for which we collected the personal information, provid
 Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
 Debug products to identify and repair errors that impair existing intended functionality.
 Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
+Comply with the California Electronic Communications Privacy Act (Cal. Penal Code   1546 et. seq.).
+Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information s deletion may likely render impossible or seriously impair the research s achievement, if you previously provided informed consent.
 Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
 Comply with a legal obligation.
 Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
@@ -203,17 +203,17 @@ To exercise the access, data portability, correction, and deletion rights descri
 You may only make a verifiable consumer request for access or data portability twice within a twelve (12) month period. The verifiable consumer request must:
 Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized agent; and
 Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor s identity or authority to make the request.
 Responding to Your Request
 We endeavour to respond to a verifiable consumer request within forty-five (45) calendar days of its receipt. If we require more time (up to forty-five (45) days), we will inform you of the reason and extension period in writing. We will send you confirmation of receipt of any verifiable consumer request within ten (10) business days of its receipt.
 If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response electronically.
-Any disclosures we provide will only cover the twelve (12) month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily usable and should allow you to transmit the information from one entity to another without hindrance.
+Any disclosures we provide will only cover the twelve (12) month period preceding the verifiable consumer request s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily usable and should allow you to transmit the information from one entity to another without hindrance.
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the requests warrant a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 ATTACHMENT 2
 Apple Arcade
-This section describes the privacy practices specific to titles of ours that are available on Apple Arcade. These include: Game Room and Gears & Goo (“
+This section describes the privacy practices specific to titles of ours that are available on Apple Arcade. These include: Game Room and Gears & Goo ( 
 Games
-”).
+ ).
 Information We Collect
 We collect limited information about you in our Games for Apple Arcade. This covers all data that is sent off of your device to our servers, including data collected for short term transient use. Note that we are required to obtain your permission to collect any data generated by you, including information that relates to you as an identified or identifiable individual or that is linked or linkable to you by us. The following data may be collected but is not linked to your identity:
 -

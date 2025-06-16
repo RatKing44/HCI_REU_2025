@@ -49,16 +49,19 @@ def spache(text, easy_words):
 
 
 def spache_allen(text):
-    word_list = "else"
+    word_list = "agspache"
     if word_list == "8grade":
         spache_path = "spache_easy_8th_grade.txt"
     elif word_list == "13yo":
         spache_path = "spache_easy_13.txt"
+    elif word_list == "agspache":
+        spache_path = "ag-spache-allen.txt"
     else:
         spache_path = "spache_easy.txt"
     with open(spache_path) as f:
         easy_words = set(line.strip() for line in f)
 
+    print("Using word list:", spache_path)
     return spache(text, easy_words)
 
 def data():
