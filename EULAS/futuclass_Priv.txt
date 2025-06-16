@@ -1,6 +1,6 @@
 Privacy Policy | Futuclass Education for Schools
 Privacy Policy
-This Privacy Policy explains which personal data Futuclass O  (henceforth referred to as Futuclass), when providing the services as specified below, collects about You, how we use that data and how Your privacy rights are protected.
+This Privacy Policy explains which personal data Futuclass OÜ (henceforth referred to as Futuclass), when providing the services as specified below, collects about You, how we use that data and how Your privacy rights are protected.
 Futuclass as a data controller is committed to respecting Your privacy. Futuclass works to responsibly manage and protect Your personal data, to be transparent about our data processing practices, and to ensure our privacy standards are up to date. We will only collect, store, use and disclose Your personal data in accordance with this Privacy Policy.
 INTERPRETATION AND DEFINITIONS
 Interpretation
@@ -10,7 +10,7 @@ For the purposes of this Privacy Policy:
 Account
 means a unique user account to access our Service or parts of our Service.
 Application
-means the software program provided by the Company which can be downloaded by You on any electronic device, including but not limited to  Futuclass Education  or  Kitchen Assembly .
+means the software program provided by the Company which can be downloaded by You on any electronic device, including but not limited to “Futuclass Education” or “Kitchen Assembly”.
 Company
 (referred to as either "the Company", "We", "Us" or "Our" in this Privacy Policy) refers to Futuclass OU, Narva mnt 20, Tartu, Tartumaa, 51009, Estonia.
 Device
@@ -20,7 +20,7 @@ means the Regulation EU 2016/679 on the protection of natural persons with regar
 Personal Data
 is any information that relates to an identified or identifiable individual.
 Service
-refers to the usage of any Application, including Virtual Reality (VR) Application  Futuclass Education , VR Application  Kitchen Assembly , as well as Futuclass Teacher Portal available for subscribed users at
+refers to the usage of any Application, including Virtual Reality (VR) Application “Futuclass Education”, VR Application “Kitchen Assembly”, as well as Futuclass Teacher Portal available for subscribed users at
 https://portal.futuclass.com
 and Futuclass Website.
 Third Party Service Provider
@@ -65,7 +65,7 @@ We may use Your information for improving our Services, such as data analysis, i
 For resolving legal disputes:
 We may retain Your Personal Data which pertains to our contractual relationship to resolve disputes, and enforce our legal agreements.
 For improving user experience:
-We may use the Website visitor data (as described above) to improve the Website visibility and the relevant user experience - modify and enhance the Website design and content based on the users  activities on the Website) and its technical functioning.
+We may use the Website visitor data (as described above) to improve the Website visibility and the relevant user experience - modify and enhance the Website design and content based on the users’ activities on the Website) and its technical functioning.
 Disclosure to Third Parties
 We may share Your personal information in the following situations:
 With Service Providers:
@@ -81,7 +81,7 @@ Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain Your data to comply with applicable laws).
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for 5 years from its generation.
 Transfer of Your Personal Data
-Your Personal Data is processed at the Company's operating premises and in any other places where the parties involved in the processing are located. It means that Your Personal Data may be transferred to   and maintained on   computers located outside of Your state, province, country or other governmental jurisdiction, including a third country as specified below, where the data protection laws may differ from those of Your jurisdiction.
+Your Personal Data is processed at the Company's operating premises and in any other places where the parties involved in the processing are located. It means that Your Personal Data may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction, including a third country as specified below, where the data protection laws may differ from those of Your jurisdiction.
 A third country is a country other than an EU member state, EEA country or a country that does not offer an adequate level of data protection according to a relevant European Commission adequacy decision.
 We do not store or transfer Your Personal Data to third countries, except in cases described herein. If necessary, Your Personal Data will only be transferred if We have concluded an agreement with the recipient which meets the requirements established in GDPR for the transfer of personal data outside the EEA (including the Standard Contractual Clauses) and have applied other relevant measures to make sure Your Personal Data is processed according to the high standards of GDPR.
 Disclosure of Your Personal Data
@@ -98,18 +98,18 @@ Protect the personal safety of Users of the Service or the public
 Protect against legal liability
 Security of Your Personal Data
 The security of Your Personal Data is important to Us and We apply the necessary legal, organisational, physical and technical security measures to protect Your Personal Data. The main security measures include the following.
-Physical measures   the offices are locked and a  clean desk policy  is applied.
-Technical measures   computers are password protected and encrypted as necessary; firewalls and antivirus programmes are applied; backups are done regularly.
-Organisational measures   data protection, information security and access management rules are in place; awareness raising for the employees; , confidentiality requirements applied on employees.
+Physical measures – the offices are locked and a “clean desk policy” is applied.
+Technical measures – computers are password protected and encrypted as necessary; firewalls and antivirus programmes are applied; backups are done regularly.
+Organisational measures – data protection, information security and access management rules are in place; awareness raising for the employees; , confidentiality requirements applied on employees.
 However,  remember that no method of transmission over the Internet, or method of electronic storage is 100% secure.
 Right to Delete Your Personal Data
 At any time a user may contact us via email (
-[email protected]
+[email protected]
 ) to request that any data collected or stored is deleted. Please keep in mind that We cannot delete any data that We process to fulfill a contractual or a legal obligation.
 Protection of Your Personal Data Under GDPR
 If You are a resident of the European Economic Area (EEA), You have certain data protection rights. Futuclass takes all the required steps to allow You to correct, amend, delete, or limit the use of Your Personal Data.
 If You wish to be informed what Personal Data We hold about You and if You want it to be removed from our systems, please contact us at:
-[email protected]
+[email protected]
 In certain circumstances, You have the following data protection rights:
 The right to access, update or to delete the Personal Data we have on You.
 Whenever technically feasible, You can access, update or request deletion of Your Personal Data directly by contacting us.
@@ -132,8 +132,8 @@ LINKS TO OTHER WEBSITES
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 IN-APP PURCHASES AND SUBSCRIPTION LICENSES
-VR Applications  Futuclass Education  and  Kitchen Assembly  are free to download and try, but more content can be unlocked via In-App Purchases (IAP) or Subscription Licenses.
-Please note that in case of subscribing via external providers (e.g. Meta), the relevant external provider s policies apply. IAP are offered according to Platform In-App Purchases and Subscription Licenses are only offered in bulk to educational institutions, subject to separate contractual arrangements, both as defined by Meta in
+VR Applications “Futuclass Education” and “Kitchen Assembly” are free to download and try, but more content can be unlocked via In-App Purchases (IAP) or Subscription Licenses.
+Please note that in case of subscribing via external providers (e.g. Meta), the relevant external provider’s policies apply. IAP are offered according to Platform In-App Purchases and Subscription Licenses are only offered in bulk to educational institutions, subject to separate contractual arrangements, both as defined by Meta in
 https://developer.oculus.com/policy/app-policies/
 .
 CHANGES TO THIS PRIVACY POLICY
@@ -142,7 +142,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 CONTACT US
 If You have any questions about this Privacy Policy, You can contact us:
 By email:
-[email protected]
+[email protected]
 By visiting this page on our website:
 https://www.futuclass.com/
 Last updated: January 23, 2023

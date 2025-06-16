@@ -1,12 +1,12 @@
-Privacy Policy   Rec Room
+Privacy Policy — Rec Room
 Privacy Policy
 Effective: June 6, 2025
 Rec Room Inc., a Delaware corporation ("Company", "we", "our", and their derivatives) provides the websites,
 http://www.recroom.com
 ,
 http://www.rec.net
-, and the subdomains of each of the foregoing (collectively, the "Website") and the Rec Room  video game (the "Game" and, with the Website, the "Services").
-This Privacy Policy ( Policy ) sets forth how we collect, use, protect, store, and otherwise process your Personal Information (defined below). This Policy does NOT apply to information we collect offline or you provide to or is collected by any third party (except as otherwise provided below).
+, and the subdomains of each of the foregoing (collectively, the "Website") and the Rec Room® video game (the "Game" and, with the Website, the "Services").
+This Privacy Policy (“Policy”) sets forth how we collect, use, protect, store, and otherwise process your Personal Information (defined below). This Policy does NOT apply to information we collect offline or you provide to or is collected by any third party (except as otherwise provided below).
 By accessing or using the Services, you consent to this Policy. If you do not agree with this Policy, you may not access or use the Services,
 For our practices regarding children under the age of 13, please see Section 2 below.
 1. What types of Personal Information does the Company collect?
@@ -18,13 +18,13 @@ Commercial information: We may collect your sale or purchase history in the Game
 Voice chat: We may receive your voice through your microphone. Typically we do not store this information, although we reserve the right to monitor what you say for content moderation purposes in order to maintain a safe and compliant platform for the users that play the Game. For such moderation purposes, some voice clips may be recorded and sent to a third-party service for additional processing. Any such recordings are anonymized and retained for 30 days. We do NOT collect biometric information, in the form of voiceprints or otherwise.
 AI Voice Prompts: Users may use voice commands for certain in-game AI features (including but not limited to Maker AI and Roomie) but we do not maintain these commands as an audio file and only collect them for the brief time necessary to process the command.
 In-Game Visual Data: We may capture still images (screenshots) from the player's in-game point of view to detect and respond to content that may violate our community guidelines or pose safety concerns. These screenshots may contain user-generated content, avatars, or other contextual information from the game environment. Screenshots are collected for moderation and trust and safety purposes only, are stored securely, and are accessible only to authorized personnel. We do not use these screenshots for advertising or marketing purposes and do not collect screenshots from Junior Users.
-Sensory data: We may receive your voice through your microphone and animation data derived from your head movement and facial expressions (for example through your TrueDepth  camera on certain Apple  devices). We do not store this information expect as disclosed above.
+Sensory data: We may receive your voice through your microphone and animation data derived from your head movement and facial expressions (for example through your TrueDepth® camera on certain Apple® devices). We do not store this information expect as disclosed above.
 Internet or other similar network activity: We may collect your play history, running/loaded dynamic link library ("DLLs") on your computer or data gathered from a "small memory dump."
 Categories of personal information described in Section 1798.80(e) of the California Civil Codes: We may collect your first, middle, and last name, telephone number, physical characteristics, signature, Social Security number, postal address, or account number.
 Other categories: We may collect information from the content that you create and share in the Game, and information from the content you submit in the Game through chat or other functions. We do not allow access to some of this information, such as direct messages, except where you provide it directly to us or as otherwise necessary to address, identify, or respond to serious safety concerns such as child exploitation, violence, or threats of imminent harm.
 We may also collect information that does not generally identify you but may become associated with your account. We may use information that does not identify you for any permissible business purpose under applicable law.
-We do NOT sell or share (as those terms are defined in California Civil Code  1798.140) any of the Personal Information we collect.
-We do NOT collect sensitive personal information as defined in California Civil Code  1798.140(ae), with the exception of Employer Identification Numbers/Social Security Numbers of participants in the Creator Payment Program and the Video Partner Program, for the purposes of processing payment to such participants from whom we receive this information, which we do not sell or share.
+We do NOT sell or share (as those terms are defined in California Civil Code §1798.140) any of the Personal Information we collect.
+We do NOT collect sensitive personal information as defined in California Civil Code §1798.140(ae), with the exception of Employer Identification Numbers/Social Security Numbers of participants in the Creator Payment Program and the Video Partner Program, for the purposes of processing payment to such participants from whom we receive this information, which we do not sell or share.
 2. Children Under the Age of 13
 This section notifies parents of our practices with respect to the collection of personal information from children under the age of 13 ("Children" and each a "Child") and the use and disclosure of such information. This section only applies to Children and supplements the other provisions of this Policy.
 Junior Mode
@@ -58,14 +58,14 @@ When the Game crashes during play, we may collect your running/loaded DLLs on yo
 When you post or send messages or other content in the Game.
 When you use your microphone for voice chat.
 When you respond to a survey or questionnaire, we may collect the information provided.
-On Apple  devices running the iOS or iPadOS  operating systems, Rec Room may request permission to access the following:
+On Apple® devices running the iOS or iPadOS™ operating systems, Rec Room may request permission to access the following:
 Microphone - Rec Room requests access to the microphone in order to support real time voice chat. Voice chat is optional and may be turned off at any time. Rec Room will continue to function (without voice chat) if you choose to deny permission.
-TrueDepth  camera - on devices that support it, Rec Room requests access to the TrueDepth  camera in order to animate your in-game avatar in certain scenarios. This functionality is optional and may be turned off at any time. Rec Room will continue to function (without this animation feature) if you choose to deny permission. We don't store this information or share it with third parties.
+TrueDepth® camera - on devices that support it, Rec Room requests access to the TrueDepth® camera in order to animate your in-game avatar in certain scenarios. This functionality is optional and may be turned off at any time. Rec Room will continue to function (without this animation feature) if you choose to deny permission. We don't store this information or share it with third parties.
 Automatically From You
 We may collect your Personal Information automatically as you use our Services. For example, we may collect your Personal Information as you browse our Website. For more information about our use of automatic tracking technologies and certain choices we offer you with respect to them, please see Section 4 below.
 From Third Parties
 We may receive Personal Information from or through third parties that help us provide or facilitate your access to the Services. For example, we may receive your Personal Information from:
-Game platforms such as PlayStation, Oculus, and Steam (e.g., when you first play the Game using PlayStation VR, Personal Information associated with your account for PlayStation Network, including your PlayStation Network Online ID, may be disclosed to us);
+Game platforms such as PlayStation, Oculus, and Steam (e.g., when you first play the Game using PlayStation®VR, Personal Information associated with your account for PlayStation™Network, including your PlayStation™Network Online ID, may be disclosed to us);
 Multi-player platform providers;
 Cloud computing providers;
 Payment platform providers; and
@@ -86,13 +86,13 @@ or
 http://www.google.com/settings/ads
 ) or to alert you when cookies are being sent. Please note that, if you disable or refuse cookies or other automatic data collection technologies, some aspects of the Services may be inaccessible or not function properly.
 5. For what purposes does the Company collect Personal Information?
-To provide or improve the Services   We may use your Personal Information to process your requests to access the Services and certain of their features and to generally present and improve our Services. For example, we may use your Personal Information to improve the Game. By way of another example, we may use your microphone and camera to provide the real-time voice chat features and in-Game avatar.
-To administer the Services   We may use your Personal Information for any lawful business purpose in connection with administering the Services. For example, if you reach out to us with a customer service inquiry, we may use your Personal Information to respond to you or to troubleshoot an issue you reported having with the Services.  By way of another example, we may use your Personal Information to verify your age.
-To market the Services   We may use your Personal Information to market our Services to you. For example, with your prior consent, we may send you news and updates about our products and Services, including special offers and promotions.
-In furtherance of legal, health, and safety objectives   We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to or retain your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes), or to comply with mandatory reporting requirements, such as to the NCMEC CyberTipline. We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at
+To provide or improve the Services – We may use your Personal Information to process your requests to access the Services and certain of their features and to generally present and improve our Services. For example, we may use your Personal Information to improve the Game. By way of another example, we may use your microphone and camera to provide the real-time voice chat features and in-Game avatar.
+To administer the Services – We may use your Personal Information for any lawful business purpose in connection with administering the Services. For example, if you reach out to us with a customer service inquiry, we may use your Personal Information to respond to you or to troubleshoot an issue you reported having with the Services.  By way of another example, we may use your Personal Information to verify your age.
+To market the Services – We may use your Personal Information to market our Services to you. For example, with your prior consent, we may send you news and updates about our products and Services, including special offers and promotions.
+In furtherance of legal, health, and safety objectives – We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to or retain your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes), or to comply with mandatory reporting requirements, such as to the NCMEC CyberTipline. We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at
 https://recroom.com/terms-of-service
 ).
-In connection with a sale or other transfer of our business   In the event all or some of our assets are sold, assigned, transferred to, or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy, or otherwise, your Personal Information may be among the transferred assets.
+In connection with a sale or other transfer of our business – In the event all or some of our assets are sold, assigned, transferred to, or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy, or otherwise, your Personal Information may be among the transferred assets.
 As may be described to you when collecting your Personal Information.
 We do not use automated decision-making in connection with the processing of your Personal Information, except to the extent necessary for age-gating and content moderation functions.
 6. In what situations does the Company disclose your Personal Information?
@@ -150,7 +150,7 @@ You have the right to lodge a complaint regarding our collection, storage, or pr
 A.
 The following applies to California residents pursuant to the California Consumer Privacy Act of 2018 ("CCPA"):
 In the preceding 12 months, the Company may have disclosed the categories of Personal Information listed in Section 2 above to our service providers for business purposes.
-In the preceding 12 months, the Company has not sold or shared (as those terms are defined in CCPA  1798.140) Personal Information. The Company only discloses Personal Information to service providers for business purposes related to providing and operating the Services.
+In the preceding 12 months, the Company has not sold or shared (as those terms are defined in CCPA §1798.140) Personal Information. The Company only discloses Personal Information to service providers for business purposes related to providing and operating the Services.
 You have the right to request that the Company disclose certain information to you about our collection and use of your Personal Information over the past 12 months. Once we receive and confirm your verifiable consumer request, we will disclose to you, to the extent retained by us:
 The categories of Personal Information we collected about you.
 The categories of sources for the Personal Information we collected about you.
@@ -163,12 +163,12 @@ Complete the transaction for which we collected the Personal Information, provid
 Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
 Debug the Services to identify and repair errors that impair existing intended functionality.
 Exercise free speech, ensure the right of another user to exercise their free speech rights, or exercise another right provided for by law.
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code   1546 et. seq.).
+Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
 Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
 Enable solely internal uses that are reasonably aligned with user expectations based on your relationship with us.
 Comply with a legal obligation.
 Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
- 	You have the right to request that the Company correct any inaccurate Personal Information that we collected from you
+•	You have the right to request that the Company correct any inaccurate Personal Information that we collected from you
 We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
 Deny you the Services.
 Charge you different prices or rates for the Services, including through granting discounts or other benefits, or imposing penalties.
@@ -187,7 +187,7 @@ Any disclosures we provide will only cover the 12-month period preceding the rec
 For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 B.
-This Notice applies to residents of Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah and Virginia, and is provided in accordance with those states  data privacy statutes. It is intended to supplement our general Privacy Policy. In the event of any conflicts between this Notice and other sections of our Privacy Policy, this Notice shall take precedence for residents of these states.
+This Notice applies to residents of Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah and Virginia, and is provided in accordance with those states’ data privacy statutes. It is intended to supplement our general Privacy Policy. In the event of any conflicts between this Notice and other sections of our Privacy Policy, this Notice shall take precedence for residents of these states.
 Your Rights
 You have the following rights:
 Right to Access: You have the right to confirm whether we are processing your personal data and to request access to the categories of personal data we collect and how we use it.
@@ -209,7 +209,7 @@ We may need to verify your identity before processing your request to ensure the
 Appeal Process
 If we deny your request, you have the right to appeal our decision. To do so, please contact us at
 support@recroom.com
-with the subject line  Data Privacy Appeal.  We will review your appeal and respond within 45 days.
+with the subject line “Data Privacy Appeal.” We will review your appeal and respond within 45 days.
 Sale of Personal Data
 We do not sell your personal data as defined under the CPA, or use it for targeted advertising or profiling. However, if this policy changes, you will be notified, and you will have the option to opt out of the sale of your data.
 Data Retention
