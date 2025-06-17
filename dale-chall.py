@@ -35,6 +35,7 @@ def clean_file(file_path):
 
 '''
 Calculates the readability of a text using the Dale-Chall readability score.
+https://www.jstor.org/stable/1473169?seq=7
 
 4.9 or lower	grades 4 and below
 5.0-5.9     	grades 5 - 6
@@ -72,8 +73,12 @@ def calculate_dale(text, easy_words):
     #     if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric():
     #         debugPrint(t)
 
-    # final dale-chall readability calculation, rounded
-    return round((0.0496 * avg_sentence_len) + (0.1579 * percent_difficult_words))
+    # dale-chall readability formula calculation
+    score = (0.0496 * avg_sentence_len) + (0.1579 * percent_difficult_words) 
+    if (percent_difficult_words > 5): # adjusted if percentage of difficult words is 5%
+        score += 3.6365
+
+    return round(score) # final score rounded
 
 
 def dale_chall(text):
