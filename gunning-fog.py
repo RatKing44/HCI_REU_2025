@@ -6,24 +6,24 @@ import sys
 import pathlib
 import re
 
+# Remove unwanted ASCII characters from the text
+def strip_ascii(text):
+
+    text = "".join(
+        char for char in text
+        if 31 < ord(char) < 127 and ord(char) not in (40, 41) or ord(char) == 10
+    )
+
+    return text
+
+# Clean the file to be readable for the algorithm
 def clean_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
 
-    # Remove non-ASCII characters
-    text = re.sub(r'[^\x00-\x7F]+', ' ', text)
-
-    # Remove multiple spaces and newlines
-    #text = re.sub(r'\s+', ' ', text).strip()
-
-    # Replace tabs with spaces
-    #text = text.replace('\t', ' ')
-
-    # Remove any remaining non-alphanumeric characters except spaces
-    #text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
-
-    with open(file_path, 'w', encoding='utf-8') as file:
-        file.write(text)
+    text = strip_ascii(text)
+    text = re.sub(r'\n+', '\n', text)
+            
     return text
 
 
@@ -158,24 +158,32 @@ def sylco(word) :
 # return readability score using gunning-fog index
 def gunning_fog(text):
     tokenizer = TweetTokenizer()
-    tokens = tokenizer.tokenize(text)
-    tokens = [t for t in tokens if t.isalnum()] # extract every alphanumeric word as a "word" for our purposes
 
-    # number of letters in the text (in actual words)
-    num_letters = 0
-    for t in tokens:
-        num_letters += len(t)
+    # Split on sentence-ending punctuation followed by space or newline
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
 
-    # number of actual words in the text
+    # Filter out empty strings
+    sentences = [s for s in sentences if s.strip()]
+
+    # Filter out captions
+    for i in range(len(sentences)):
+        if '\n' in sentences[i]:
+            sentences[i] = sentences[i].rsplit('\n', 1)[1].strip()
+
+    num_sentences = len(sentences)
+    if num_sentences == 0:
+        return -1
+
+    # Extract all the word tokens, remove any that aren't alphanumeric
+    tokens = []
+    for s in sentences:
+        tokens += tokenizer.tokenize(s)
+
+    tokens = [t for t in tokens if t.isalnum()]
+
     num_words = len(tokens)
     if num_words == 0:
         return -1
-    try:
-        # number of sentences using nlkt sentence tokenizer
-        num_sentences = len(sent_tokenize(text))
-    except LookupError:
-        nltk.download('punkt')
-        num_sentences = len(sent_tokenize(text))
 
     # find average sentence length
     avg_sentence_len = num_words / num_sentences
@@ -189,19 +197,16 @@ def gunning_fog(text):
     return round(0.4 * (avg_sentence_len + 100*(num_complex/num_words)))
 
 def data():
-    #with open("test.txt") as f:
-    #    text = f.read() #sys.argv[1]
     score = gunning_fog(text)
     return score
 
+# Execute gunning-fog algorithm on every file in folder
 if __name__ == '__main__':
     from pathlib import Path
-    for file in Path("EULAS").rglob('*.txt'):
+    for file in Path("EULAS_Danny").rglob('*.txt'):
         with open(file) as f:
             clean_file(f.name)
             text = f.read()   
-            fname = f.name.removeprefix('EULAS')
+            fname = f.name.removeprefix('EULAS_Danny')
                               
             print(fname, data(), sep=' - Grade: ')
-    
-    # print(count_syllables("Supercalifragilisticexpialidocious"))

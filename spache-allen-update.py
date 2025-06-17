@@ -41,6 +41,9 @@ def spache(text, easy_words):
 
     num_sentences = len(sentences)
 
+    if num_sentences == 0:
+        return -1
+
     # Extract all the word tokens, remove any that aren't alphanumeric
     tokens = []
     for s in sentences:
@@ -82,8 +85,6 @@ def spache_allen(text):
     return spache(text, easy_words)
 
 def data():
-    #with open("test.txt") as f:
-    #    text = f.read() #sys.argv[1]
     score = spache_allen(text)
 
     return score
@@ -96,6 +97,3 @@ if __name__ == '__main__':
             fname = f.name.removeprefix('EULAS_Danny')
                               
             print(fname, data(), sep=' - Grade: ')
-
-
-
