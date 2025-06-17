@@ -137,56 +137,63 @@ def sylco(word) :
     # calculate the output
     return numVowels - disc + syls
 
+# Remove unwanted ASCII characters from the text
+def strip_ascii(text):
+
+    text = "".join(
+        char for char in text
+        if 31 < ord(char) < 127 and ord(char) not in (40, 41) or ord(char) == 10
+    )
+
+    return text
+
+# Clean the file to be readable for the algorithm
 def clean_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
 
-    # Remove non-ASCII characters
-    text = re.sub(r'[^\x00-\x7F]+', ' ', text)
-
-    # Remove multiple spaces and newlines
-    #text = re.sub(r'\s+', ' ', text).strip()
-
-    # Replace tabs with spaces
-    #text = text.replace('\t', ' ')
-
-    # Remove any remaining non-alphanumeric characters except spaces
-    #text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
-
-    with open(file_path, 'w', encoding='utf-8') as file:
-        file.write(text)
+    text = strip_ascii(text)
+    text = re.sub(r'\n+', '\n', text)
+            
     return text
 
 
 # return readability score using smog grading method
 def smog(text):
-
-    # extract every alphanumeric word as a "word" for our purposes
     tokenizer = TweetTokenizer()
-    tokens = tokenizer.tokenize(text)
-    tokens = [t for t in tokens if t.isalnum()]
 
-    # extract every sentence from the text
-    sentence_tokens = sent_tokenize(text)
-    num_sentences = len(sentence_tokens)
+    # Split on sentence-ending punctuation followed by space or newline
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+
+    # Filter out empty strings
+    sentences = [s for s in sentences if s.strip()]
+
+    # Filter out captions
+    for i in range(len(sentences)):
+        if '\n' in sentences[i]:
+            sentences[i] = sentences[i].rsplit('\n', 1)[1].strip()
+
+    num_sentences = len(sentences)
+
+    # If not enough sentences for somewhat accurate scoring, break
     if num_sentences < 30:
         return -1
 
     # beginning of sentence: 0 to .2 * num_sentences
     beginning_sents_range_end = round(0.2 * num_sentences)
     beginning_sents_start = random.randint(0, beginning_sents_range_end)
-    beginning_sents = sentence_tokens[beginning_sents_start: beginning_sents_start + 10]
+    beginning_sents = sentences[beginning_sents_start: beginning_sents_start + 10]
 
     # middle of sentence: .4 * num_sentences to .6 * num_sentences
     middle_sents_range_start = round(0.4 * num_sentences)
     middle_sents_range_end = round(0.6 * num_sentences)
     middle_sents_start = random.randint(middle_sents_range_start, middle_sents_range_end)
-    middle_sents = sentence_tokens[middle_sents_start: middle_sents_start + 10]
+    middle_sents = sentences[middle_sents_start: middle_sents_start + 10]
 
     # end of sentence: .8 * num_sentences to num_sentences - 1
     final_sents_range_start = round(0.7 * num_sentences)
     final_sents_start = random.randint(final_sents_range_start, num_sentences - 10)
-    final_sents = sentence_tokens[final_sents_start: final_sents_start + 10]
+    final_sents = sentences[final_sents_start: final_sents_start + 10]
     
     # find how many words in selected sentences have 3 or more syllables
     polysyls = 0
@@ -202,18 +209,27 @@ def smog(text):
     return round(math.sqrt(polysyls)) + 3
 
 def data():
-    #with open("test.txt") as f:
-    #    text = f.read() #sys.argv[1]
     score = smog(text)
     return score
 
+# Execute smog grading on every file in folder
 if __name__ == '__main__':
     from pathlib import Path
-    for file in Path("EULAS").rglob('*.txt'):
+    for file in Path("EULAS_Danny").rglob('*.txt'):
         with open(file) as f:
             clean_file(f.name)
             text = f.read()   
-            fname = f.name.removeprefix('EULAS')
+            fname = f.name.removeprefix('EULAS_Danny')
+
+            # number of runs for each document to get an average result
+            trials = 10
+
+            # run smog grading [trials] number of times, then average
+            dataset = []
+            for i in range(trials):
+                dataset.append(data())
+
+            result = sum(dataset)/trials
                               
-            print(fname, data(), sep=' - Grade: ')
+            print(fname, round(result), sep=' - Grade: ')
     
