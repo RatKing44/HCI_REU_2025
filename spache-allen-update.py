@@ -69,7 +69,7 @@ def spache(text, easy_words):
 
 
 def spache_allen(text):
-    word_list = "agspache"
+    word_list = "f"
     if word_list == "8grade":
         spache_path = "spache_easy_8th_grade.txt"
     elif word_list == "13yo":
@@ -81,7 +81,7 @@ def spache_allen(text):
     with open(spache_path) as f:
         easy_words = set(line.strip() for line in f)
 
-    print("Using word list:", spache_path)
+    #print("Using word list:", spache_path)
     return spache(text, easy_words)
 
 def data():
@@ -94,6 +94,6 @@ if __name__ == '__main__':
     for file in Path("EULAS_Danny").rglob('*.txt'):
         with open(file, encoding='utf-8') as f:
             text = clean_file(f.name)
-            fname = f.name.removeprefix('EULAS_Danny')
+            fname = f.name.removeprefix('EULAS_Danny\\').removesuffix('.txt')
                               
             print(fname, data(), sep=' - Grade: ')

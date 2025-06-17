@@ -219,7 +219,7 @@ if __name__ == '__main__':
         with open(file, encoding='utf-8') as f:
             clean_file(f.name)
             text = f.read()   
-            fname = f.name.removeprefix('EULAS_Danny')
+            fname = f.name.removeprefix('EULAS_Danny\\').removesuffix('.txt')
 
             # number of runs for each document to get an average result
             trials = 10
