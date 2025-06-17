@@ -1,0 +1,492 @@
+Schell Games LLC (the “Schell,” “we,” “us,” or “our”) is committed to privacy and data protection. This Privacy Policy and Notice at Collection (“Privacy Notice”) applies to personal information we collect from you, through our interactions with you, through the videogame known as Among Us 3D (“AU3D” or “service”), as well as how we use and protect personal information. You may download a copy of this Privacy Notice here https://schellgames.com/among-us-vr-privacy-policy.
+
+
+For more details about how Schell collects and processes children’s data, as well as information on parental rights, please review our Children’s Online Privacy Protection Act (“COPPA”) Notice.
+
+YOUR PRIVACY IS IMPORTANT TO US. PLEASE READ THIS PRIVACY NOTICE TO LEARN ABOUT THE INFORMATION THAT SCHELL COLLECT FROM YOU AND HOW SCHELL USES THAT INFORMATION. BY USING AU3D, YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY NOTICE. IF YOU HAVE NOT DONE SO ALREADY, PLEASE REVIEW THE AU3D TERMS OF USE AT https://www.innersloth.com/among-us-vr-terms-of-use/. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY NOTICE, THEN PLEASE DO NOT USE AU3D.
+
+INNERSLOTH LLC (“INNERSLOTH”) OWNS AU3D AND ENGAGES SCHELL GAMES LLC TO DEVELOP, HOST, AND PROVIDE PLAYER SUPPORT FOR AU3D. THAT MEANS THAT, WHILE INNERSLOTH IS THE “CONTROLLER” OF YOUR PERSONAL INFORMATION (AS THAT TERM IS DEFINED UNDER PRIVACY LAW), INNERSLOTH DOES NOT COLLECT, RECEIVE, SHARE, OR PROCESS ANY PERSONAL INFORMATION ABOUT YOU FROM AU3D. HOWEVER, IN THE EVENT THAT SCHELL’S BUSINESS RELATIONSHIP WITH INNERSLOTH ENDS, SCHELL WILL TRANSFER PERSONAL INFORMATION ABOUT YOU, THAT SCHELL RETAINS AT THE TIME OF SUCH TRANSFER, TO INNERSLOTH FOR YOUR CONTINUED, UNINTERRUPTED USE OF AU3D. IF YOU DO NOT AGREE TO SUCH TRANSFER, DO NOT USE OR PLAY AU3D.
+
+
+TABLE OF CONTENTS
+1. SCOPE
+
+2. PERSONAL INFORMATION COLLECTION
+
+3. PERSONAL INFORMATION COLLECTION AND USE
+
+4. PERSONAL INFORMATION RETENTION
+
+5. HOW WE DISCLOSE INFORMATION
+
+6. HANDLING OF PERSONAL INFORMATION
+
+7. ACCESSING, UPDATING, AND DELETING PERSONAL INFORMATION
+
+8. CHILDREN’S PRIVACY AND PARENTS
+
+9. THE GENERAL DATA PROTECTION REGULATION (“GDPR”)
+
+10. YOUR STATE PRIVACY RIGHTS (California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Jersey, New Hampshire, Oregon, Texas, Utah, and Virginia)
+
+11. CHANGES TO THIS PRIVACY NOTICE
+
+12. QUESTIONS OR COMPLAINTS HANDLING
+
+
+NOTICE AT COLLECTION
+1. SCOPE
+This Privacy Notice does not apply to any third-party applications or software that integrate with AU3D, or any other third-party products, services or businesses (collectively, “Third Party Services”). Third Party Services are governed by their own privacy policies. We recommend you review the privacy policy governing any Third-Party Services before using them.
+
+
+This Privacy Notice does not apply to any service that does not display, reference, or link to this Privacy Notice. If you have not done so already, please also review the applicable Terms of Use as well as any additional terms and conditions relating to any services you acquire (“Additional Terms”). This Privacy Notice and Additional Terms apply equally but, if any Additional Term is inconsistent with any provision of this Privacy Notice, the Additional Terms will prevail for AU3D to which the Additional Terms apply.
+
+
+2. PERSONAL INFORMATION COLLECTION
+Below are categories of the personal information and sensitive personal information we may collect through AU3D. Some of this information is provided by you directly, and some of the information is collected through your interactions with AU3D. 
+
+
+Contact Identifiers, including your name, email address, postal address, phone number, alias, platform User ID, PUID. 
+Characteristics or demographics, including your age, and country (collectively, “Protected Classification Characteristics”).
+Commercial or transactions information, including records of products or services you purchased, obtained, or considered.
+Account credentials, including your username, password, password hints, and other information for authentication or account access.
+Content, including content within any messages you send to us (such as feedback, questions, or survey responses) or publicly post on the Service (such as in product reviews or blog comments).
+Sensory data, such as audio or similar information, such as communications between players.
+Non-precise location data, such as location derived from an IP address or data that indicates a city or postal code level.
+Device identifiers, including your device’s IP address. 
+Device information, including your device’s operating software and browser (e.g., type, version, and configuration), internet service provider, and regional and language settings.
+Internet activity, including information about your browsing history and interactions, such as the features you use, pages you visit, content you view, purchases you make or consider, time of day you browse, and referring and exiting pages.
+Inferences drawn from other personal information. Such as profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+We also obtain data from third parties or use third parties to assist us with data collection. For example, we may supplement the data we collect as described in this Section by purchasing demographic data from other companies. We also use services from other companies to help us determine a location based on your IP address notably to customize certain services to your location. In addition, we utilize third-party services to collect usage data.
+
+
+3. PERSONAL INFORMATION COLLECTION AND USE
+We will only use personal information when the law allows us to. Most commonly, we will use personal information in the following circumstances.
+
+● Where we need to perform the contract, we are about to enter into or have entered into with you.
+
+● Where it is necessary for our legitimate interests (or those of a third party), and your interests and fundamental rights do not override those interests.
+
+● Where we receive your consent.
+
+● Where we need to comply with a legal or regulatory obligation.
+
+We will only use personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process personal information about you without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+We also use personal information when necessary for the performance of a contract in the following contexts:
+
+● To provide AU3D and ongoing support for AU3D;
+
+● To set up and maintain your account with us;
+
+● To manage our relationship with you which may include:
+
+● Notifying you about changes to the AU3D Terms of Use or Privacy Notice
+
+● Asking you to leave a review or take a survey
+
+● Responding to your questions and inquiries
+
+We use personal information for the following purposes based on our legitimate interests:
+
+● To communicate with you;
+
+● To administer and protect our business and AU3D including troubleshooting, data analysis, security, testing, system maintenance, support, reporting, technical functionality, hosting of data, and in the context of a business reorganization or group restructuring exercise;
+
+● To prevent and investigate fraud and other misuses of AU3D and maintain the safety of our customers. For example, we use artificial intelligence to monitor player conversations for abusive language to ensure the safety of our customers and the service. Users consent to the use of this AI during the game registration process, and our AI service provider only receives a player ID;
+
+● To use data analytics to improve AU3D, marketing, client relationships and experiences;
+
+● To communicate with you, including promotional communications, suggestions and recommendations to you about products or services that may be of interest to you and customer relationship management (“CRM”);
+
+● To help us run our company, for example to improve AU3D or our security, train staff or perform marketing activities, including CRM; or
+
+● For accounting and other administrative purposes.
+
+We may also use your personal information under limited circumstances where we receive your consent. For example, where you have consented to being recorded while using voice chat in AU3D. 
+
+We may also use personal information when necessary to comply with legal obligations.
+
+Examples of how we collect and use personal information include:
+
+When you download and register for AU3D. We use data to carry out your transactions with us and to provide AU3D. Often, this includes personal information such as email, name, and Meta Quest, Steam, Discord, or other gaming platform ID. We may collect additional information from you when you register to use AU3D, including contact information and credentials. We may use this data to diagnose and address problems and provide other services.
+
+To provide you with AU3D we may collect: Contact Identifiers; Commercial or transactions information; non-precise location data; or Internet or other similar network activity.
+
+When you play AU3D. We use data to continually improve AU3D, including adding new features or capabilities. Data is collected throughout your interactions with AU3D that enable us to understand customer usage and tailor future capabilities.
+
+We track general, non-personalized information (e.g., operating system and type of device being used) to know how you utilize specific areas of AU3D so that we may improve those services. We may use your IP address to customize services to your location, such as the language displayed on AU3D.
+
+To facilitate our understanding of how individuals use AU3D. Schell uses this information to better understand how users interact with AU3D and improve usability. 
+
+We may also use data collected through game play to monitor compliance with the AU3D Player Behavior and Code of Conduct, available at https://www.innersloth.com/code-of-conduct/ and Terms of Use available at https://www.innersloth.com/among-us-vr-terms-of-use/.
+
+To process your requests. We may collect the content of messages you send to us, such as feedback or questions you ask our technical support representatives, when necessary to provide you with AU3D and fulfill our contract with you. We will collect and utilize any data files you send to us for troubleshooting and improving AU3D.
+
+To process your requests, we may collect: Contact Identifiers; Commercial or transactions information; non-precise location data; or Internet or other similar network activity.
+
+When you voice chat with other players. With your consent, we may record your voice during game play when you use your device microphone for voice chat. Some of these voice recordings may be sent to our third-party voice moderation provider Modulate, Inc. You may find out more about how Modulate collects, stores, and uses personal information by accessing its privacy policy available at: https://www.modulate.ai/privacy-and-data. 
+
+We are not responsible for monitoring or recording any activity on or communications made through Among Us 3D; although, we may do so in order to investigate violations of or enforce our agreement with you, moderate voice chat conversations, or to protect our rights and property, or the rights of our partners and our users. You may revoke your consent to voice recording at any time on the “Settings” screen in Among Us 3D.
+
+● For analytics purposes - For example, we may analyze personal information about you including your location, age, time zone, IP address and URL visited, against our wider customer base for internal business purposes, such as generating statistics and developing marketing plans, based on our legitimate interest to improve AU3D. We may also aggregate and de-identify your information to create customer segments and disclose to our affiliates and partners.
+
+● To perform analytics, we may collect and process: Protected Classification Characteristics, and Internet and network information.
+
+● For game and business development purposes - For example, we will use information we collect from you based on our legitimate interest to improve our games and develop new games, features, and capabilities. Data is collected throughout your interactions with AU3D that enable us to understand usage and tailor future capabilities.
+
+● To support product development, product improvement, and business development we may collect and process: Contact Identifiers; Commercial or transactions information; or Internet and network information.
+
+● To verify your identity - For example, we may collect your real name, alias, postal address, unique personal identifier, online identifier, email address, account name, or other similar identifiers to determine if you already have an account with us or comply with a request from you to exercise your rights, as required by law.
+
+When we communicate with you. We use data we collect to deliver and personalize our communications with you. For example, we may contact you by email or other means to notify you of changes in information and updates to AU3D or to our Privacy Notice. 
+
+We may collect the content of messages you send to us, such as feedback or questions you ask our support representatives, when necessary to provide you with AU3D. When you contact us, chat sessions with our representatives may be monitored and recorded in order to improve AU3D, facilitate the processing and resolution of your request or complaint. 
+
+When you participate in surveys or studies. We may ask you to participate in a survey or study; and may request information from you. Participation is voluntary, and you have the choice of whether to disclose any requested information.
+
+When conducting a survey or study we may collect: Contact Identifiers; Protected Classification Characteristics; non-precise location data; or Internet or other similar network activity; or sensitive personal information
+
+When we market to you. We use personal information to deliver marketing communications to you across various platforms, such as email, direct mail, social media, and online via AU3D. 
+
+● To provide marketing communications we may collect and process: Contact Identifiers; or Commercial or transactions information.
+
+● For fraud prevention and detection purposes and to protect and defend the rights and property of Schell, our employees and business partners.
+
+● To support our legitimate interest in fraud prevention and detection we may collect and process: Identifiers; or Internet or other electronic network activity information. 
+
+If we send you a marketing email, it will include instructions on how to opt out of receiving these emails in the future. For information about managing email subscriptions and promotional communications, please visit the Accessing, Updating, and Deleting Personal Information Section of this Privacy Notice. Please remember that even if you opt out of receiving marketing emails, we may still send you important service information related to your accounts. 
+
+
+4. PERSONAL INFORMATION RETENTION
+We retain each category of personal information in identifiable form only for as long as necessary to fulfill the purposes for which the personal information was provided to Schell or, if longer, to comply with legal obligations, to resolve disputes, to enforce agreements and similar essential purposes. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+
+5. HOW WE SHARE INFORMATION
+The information you provide will not be sold or rented to third parties or shared for cross contextual behavioral advertising purposes.
+
+We may provide personal information to:
+
+● our affiliates and subsidiaries, located in and outside your country or region;
+
+● outsourced service providers who perform functions on our behalf, located inside or outside of your country or region;
+
+● gaming platform providers through which you have purchased our game, such as Steam and Meta;
+
+● our authorized agents and representatives, located inside or outside of your country or region, who sell products or provide services on our behalf;
+
+● anyone expressly authorized by you to receive personal information; and
+
+● anyone to whom we are required by law to disclose personal information, upon valid and enforceable request thereof.
+
+Schell may disclose personal information if Schell or one of its affiliates is involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control (in whole or in part). Schell requires that the disclosed personal information remain subject to the promises made in the then-current Privacy Notice, unless and until you agree to a new privacy terms.
+
+We will access, disclose, and preserve personal information when we have a good faith belief that doing so is necessary to:
+
+● comply with applicable law or respond to valid legal processes, including from law enforcement or other government agencies, upon valid and enforceable request thereof; 
+
+● maintain the safety of our customers and users, including to prevent violations of our Code of Conduct, available at https://www.innersloth.com/code-of-conduct/; or
+
+● operate and maintain the security of AU3D, including to prevent or stop an attack on our computer systems or networks.
+
+For residents of the European Economic Area (“EEA”) and United Kingdom (“UK”), Schell will disclose personal information only when permitted to do so under applicable UK, European and EU Member States’ national data protection laws and regulations.
+
+Please note that AU3D may direct you to services of third parties whose privacy practices differ from ours. If you provide personal information to any of those services, your data is governed by their privacy statements or policies. Schell and its affiliates are not responsible for the privacy practices of these other websites. Please review the privacy policies for these websites to understand how they process your information.
+
+Business Purpose Disclosures
+
+In the preceding twelve (12) months, we have disclosed personal information to the following third parties for a business purpose. 
+
+Gaming and Platform Providers: Personal information may be processed by the platforms through which you have purchased AU3D, such as Meta and Steam (“Platform Providers”). We do not store or have access to your payment information and do not control and are not responsible for the Platform Providers or their collection or use of personal information. You may find out more about how the Platform Providers collect, store, and use personal information by accessing the privacy policy for the Platform Provider’s services.
+
+Analytics Providers: Personal information may also be processed by Unity Technologies, our third-party analytics provider. Unity Technologies collects and processes usage data and other metrics concerning your use of AU3D, such as session length, daily play time, and game performance, on our behalf. You may find out more about how the Unity Technologies collects, stores, and uses personal information by accessing its privacy policy available at: https://unity.com/legal/privacy-policy.
+
+Marketing preferences: If you have provided us with your contact information, we may, subject to any applicable Spam Act or similar regulation, contact you via email, postal mail or telephone about Schell products, services and events that may be of interest to you, including our newsletter.
+
+E-mail communications you receive from Schell will generally provide an unsubscribe link allowing you to opt-out of receiving future e-mail or to change your contact preferences. Please remember that even if you opt out of receiving marketing emails, we may still send you important service information related to your accounts and subscriptions.
+
+You can also request changes to your account and marketing preferences by emailing Schell at privacy@schellgames.com.
+
+
+6. HANDLING OF PERSONAL INFORMATION
+Security of Personal Information
+
+Schell is committed to protecting the security of personal information. Depending on the circumstances, we may hold your information in hard copy and/or electronic form. For each medium, we use technologies and procedures to protect personal information. We review our strategies and update as necessary to meet our business needs, changes in technology, and regulatory requirements.
+
+These measures include, but are not limited to, technical and organizational security policies and procedures, security controls and employee training.
+
+You are responsible for maintaining the security of your account credentials for AU3D. Schell will treat access to AU3D through your account credentials as authorized by you. Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution. We may suspend your use of all or part of AU3D without notice if we suspect or detect any breach of security. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.
+
+If we become aware of a breach that affects the security of personal information about you, we will provide you with notice as required by applicable law. To the extent permitted by applicable law, Schell will provide any such notice that Schell must provide to you at your account’s email address. By using AU3D, you agree to accept notice electronically.
+
+Storage and Transfer of Personal Information
+
+Personal information collected by Schell may be stored and processed in your region, in the United States or in any other country where Schell, its affiliates or contractors maintain facilities. We take steps to ensure that the data we collect under this Privacy Notice is processed pursuant to the terms thereof and the requirements of applicable law wherever the data is located.
+
+Schell also collaborates with third parties such as cloud hosting services and suppliers located around the world to serve the needs of our business, workforce, and customers. In some cases, we may need to disclose or transfer personal information within Schell or to third parties in areas outside of your home country. When we do so, we take steps to ensure that personal information is processed, secured, and transferred according to applicable law.
+
+If you would like to know more about our data transfer practices, please contact our Legal Department at privacy@schellgames.com.
+
+
+7. ACCESSING, UPDATING, AND DELETING PERSONAL INFORMATION 
+You may request access to, deletion of, or to correct an error or omission in personal information about you by contacting us at privacy@schellgames.com or submit a request using our webform, available at https://schellgames.com/verifiable-consumer-access-and-deletion-request-form. We will make good faith efforts to resolve requests to correct inaccurate information except where the request is unreasonable, requires disproportionate technical effort or expense, jeopardizes the privacy of others, or would be impractical. Residents of some jurisdictions may have additional rights concerning personal information; please see Section 8 – “The General Data Protection Regulation” and Section 9 – “Additional State Rights and Disclosures for California Residents (Your California Privacy Rights)” regarding these rights. 
+
+California Shine the Light Law: California Civil Code Section 1798.83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personal information (if any) for direct marketing purposes in the preceding calendar year. If you are a California resident and you wish to make such a request, please send an email with “California Privacy Rights” in the subject line to privacy@schellgames.com or write us at: Schell Games LLC, Attention: Privacy Inquiries, 220 W Station Square Drive, Pittsburgh, PA 15219. 
+
+
+8. CHILDREN’S PRIVACY AND PARENTS
+AU3D may be used by individuals who are under the age of 13 years old (“children” or “child”). AU3D children requires verifiable parental consent and acknowledgement of the Schell Children’s Online Privacy Protection Act (“COPPA”) Notice prior to a child’s participation. Consistent with the requirements of the COPPA, if we learn that we received any information directly from a child without his or her parent’s verified consent, we will use that information only to inform the child (or his or her parent or legal guardian) that he or she cannot use AU3D.
+
+California Minors: If you are a California resident who is under age 18 and you are unable to remove publicly available content that you have submitted to us, you may request removal by contacting us at: privacy@schellgames.com.  When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it. We are not required to remove any content or information that: (1) federal or state law requires us or a third-party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the content or information. Removal of your content or information from the services does not ensure complete or comprehensive removal of that content or information from our systems or the systems of our service providers. We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or information or render it invisible to other users and the public.
+
+
+9. THE GENERAL DATA PROTECTION REGULATION (“GDPR”)
+Residents of the EEA and UK may be entitled to other rights under the GDPR. These rights are summarized below. We may require you to verify your identity before we respond to your requests to exercise your rights. If you are entitled to these rights, you may exercise these rights with respect to personal data (as defined in the GDPR) that we collect and store:
+
+● the right to withdraw your consent to data processing at any time (please note that this might prevent you from using certain aspects of AU3D;
+
+● the right to access personal data about you; 
+
+● the right to request a copy of personal data about you;
+
+● the right to correct any inaccuracies in personal data about you; 
+
+● the right to erase personal data about you;
+
+● the right to data portability, meaning to request a transfer of personal data about you from us to any other person or entity as chosen by you; 
+
+● the right to request restriction of the processing of personal data about you; and
+
+● the right to object to processing of personal data about you. 
+
+You may exercise these rights free of charge. These rights will be exercisable subject to limitations as provided for by the GDPR. Any requests to exercise the above listed rights may be made to: privacy@schellgames.com. If you are an EEA or UK resident, you have the right to lodge a complaint with a Data Protection Authority about how we process personal data about you at the following website: https://edpb.europa.eu/about-edpb/board/members_en. 
+
+International Transfers of Personal Data
+
+Whenever we transfer personal data out of the EEA or UK, we ensure a similar degree of protection is afforded to it by using a solution that enables lawful transfer of personal data to a third country in accordance with Article 45 or 46 of the GDPR (including the European Commission Standard Contractual Clauses). 
+
+For additional information on the mechanisms used to protect personal data, please contact us at privacy@schellgames.com.
+
+
+10.  YOUR STATE PRIVACY RIGHTS (California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Jersey, New Hampshire, Oregon, Texas, Utah, and Virginia)
+State consumer privacy laws may provide their residents with additional rights regarding our use of personal information. The following Section applies to individuals who reside in specific jurisdictions that provide additional privacy rights.
+
+California Notice at Collection
+
+For residents of California, at or before the time of collection of your personal information, you have the right to receive notice of our data practices. Our data practices are as follows:
+
+● Collection. The categories of personal information we have collected in the past 12 months and the categories sources from which the personal information is collected are set out in the “Personal Information Collection” and “Personal Information Collection and Use” sections above. 
+
+● Purpose. The specific business and commercial purposes for collecting and using personal information are set out in the “Personal Information Collection and Use” section above.
+
+● Disclosure. The categories of persons to whom personal information is disclosed, including service providers for business purposes, are set out in the “How We Disclose Information” section above. We disclose the categories of personal information listed in the “Personal Information Collection” section above to service providers for business purposes.
+
+● Sensitive Data. Some of the personal information we collect may be considered sensitive personal information under California law. We collect, use, and disclose sensitive personal information only for the permissible business purposes for sensitive personal information under California law or without the purpose of inferring characteristics about consumers. We do not sell or share sensitive personal information.
+
+● Retention. The criteria used to determine the period of time we retain your personal information is set out in the “Personal Information Retention” section above.
+
+● Sales and Shares. We do not sell or share personal information as those terms are defined under applicable law.
+
+Your Rights and Choices
+
+Right to Access Specific Information and Data Portability Right. Depending on your state of residence, you may have the right to request that we disclose certain information to you about our collection and use of personal information over the past twelve (12) months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
+
+● The categories of personal information we collected about you.
+
+● The categories of sources for the personal information we collected about you.
+
+● Our business or commercial purpose for collecting or selling that personal information.
+
+● The categories of third parties with whom we share that personal information, or specific third-party recipients of your personal information, depending on your state of residence.
+
+● The specific pieces of personal information we collected about you (also called a data portability request).
+
+● If we disclosed personal information for a business purpose, the business purpose for which personal information was disclosed, and the personal information categories that each category of recipient obtained.
+
+Right to Correct Information. You have the right to request we update personal information about you that is incorrect in our systems.
+
+Right to Delete. You have the right to request that we delete any personal information about you that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) the personal information from our records, unless an exception applies. 
+
+Right to Withdraw Consent. You have the right to revoke consent previously given to us for the processing of your personal data. To revoke consent, please contact us at privacy@schellgames.com (specifying the consent you wish to withdraw). If you withdraw consent, you may not be able to receive certain services related to that consent.
+
+Right to Opt-out of the sale or sharing of Personal Information for Cross-Contextual Behavioral Advertising. We do not sell or share personal information. 
+
+Right to Limit Sensitive Personal Information Use. You have the right to limit the use of sensitive personal information regarding you. We use sensitive personal information only for permissible purposes under California law.
+
+Non-Discrimination. We will not discriminate against you for exercising any of your rights. 
+
+Exercising Your Rights
+
+To exercise the access, data portability and deletion rights described above, please complete and email us a copy of this Verifiable Consumer Request Form to privacy@schellgames.com or submit a request using our webform, available at https://schellgames.com/verifiable-consumer-access-and-deletion-request-form. 
+
+To appeal a decision regarding a consumer rights request, please submit your appeal using one of the methods above. Your appeal should include an explanation of the reason you disagree with our decision. Within 60 days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. 
+
+If we deny your appeal, you may submit a complaint to your Attorney General as follows:
+
+● For Colorado residents: https://coag.gov/file-complaint/
+
+● For Connecticut residents: https://www.dir.ct.gov/ag/complaint/ 
+
+● For Delaware residents: https://attorneygeneral.delaware.gov/fraud/cmu/complaint/ 
+
+● For Iowa residents: https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint/complaint-form 
+
+● For Montana residents: https://dojmt.gov/office-of-consumer-protection/consumer-complaints/
+
+● For Nebraska residents: https://www.nebraska.gov/apps-ago-complaints/ 
+
+● For New Hampshire residents: https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints
+
+● For New Jersey residents: https://www.njconsumeraffairs.gov/Pages/Consumer-Complaints.aspx 
+
+● For Oregon residents: https://justice.oregon.gov/consumercomplaints/  
+
+● For Texas residents: https://oag.my.salesforce-sites.com/CPDOnlineForm 
+
+● For Utah residents: https://attorneygeneral.utah.gov/contact/complaint-form/ 
+
+● For Virginia residents: https://www.oag.state.va.us/consumercomplaintform
+
+Only you, or a person registered with an applicable Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to personal information about you. You may also make a verifiable consumer request on behalf of your minor child. 
+
+You may only make such a request for access or data portability twice within a 12-month period. The verifiable consumer request must provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative and describe your request with sufficient detail that allows us to properly understand, evaluate and respond to it.
+
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+
+We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. We will deliver our written response electronically. Any disclosures we provide will only cover the 12-month period preceding the receipt of the verifiable consumer request. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide the personal information that is readily usable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+
+11. CHANGES TO THIS PRIVACY NOTICE
+We may update this Privacy Notice based upon evolving Laws, regulations and industry standards, or as we may make changes to our business including AU3D. We will post changes to our Privacy Notice on this page and encourage you to review our Privacy Notice when you use AU3D to stay informed. If we make changes that materially alter your privacy rights, Schell will provide additional notice, such as via email or through AU3D. If you disagree with the changes to this Privacy Notice, you should discontinue your use of AU3D. 
+
+
+12. QUESTIONS OR COMPLAINTS HANDLING
+We understand that you may have questions or concerns about this Privacy Notice or our privacy practices or may wish to file a complaint. In such case, please contact us in one of the following ways:
+
+Email: privacy@schellgames.com
+
+Phone:  +1.412.390.0101
+
+Mail: Schell Games LLC 
+
+Attention: Privacy Inquiries
+
+220 W Station Square Drive
+
+Pittsburgh, PA 15219
+
+
+Children’s Online Privacy Protection Act (“COPPA”) Notice
+Schell Games LLC (“Schell,” “we,” “us,” or “our”) is committed to privacy and data protection. The Children’s Online Privacy Protection Act of 1998 and its rules (collectively, “COPPA”) require us to inform parents and legal guardians (as used in this policy, “parents” or “you”) about our practices for collecting, using, and disclosing personal data from children under the age of 13 (“children” or “child”). This notice (“COPPA Notice”) provides additional details regarding the practices described in the Children’s Privacy section of our Privacy Notice.
+
+This COPPA Notice only applies to the data collection practices of Among Us 3D (“AU3D”) directed to children under the age of 13 and supplements the Privacy Notice. Capitalized terms not defined in this COPPA Notice are otherwise defined in the Privacy Notice.
+
+We are committed to complying with COPPA. On applicable platforms, we use Kids Web Services or other platform specific child account systems (collectively “KWS”) to manage child accounts, verify ages, and secure parental/guardian consent where required. This COPPA Notice is meant to inform parents and legal guardians (“parents”) about our practices regarding children’s personal information.
+
+1. CONTACT INFORMATION
+
+If you have any questions or concerns about this COPPA Notice, the personal information we have collected about your child, or if you would like to exercise any of the rights discussed herein, please contact us at:
+
+Email: privacy@schellgames.com
+
+Phone:  +1.412.390.0101
+
+Mail: Schell Games LLC 
+
+Attention: Privacy Inquiries
+
+220 W Station Square Drive
+
+Pittsburgh, PA 15219
+
+2. INFORMATION WE COLLECT FROM CHILDREN
+
+When a child uses or attempts to use AU3D, we may collect or receive a limited amount of personal information, either directly from the child, the parent, or through KWS for verification and account setup purposes. We endeavor to collect only as much information as is reasonably necessary for the child to participate in an activity. The types of information we may collect include:
+
+Account and Profile Information
+
+● Username (created by the child or provided by KWS)
+
+● Parent or Guardian Email Address (to seek consent)
+
+● Date of Birth (to confirm age eligibility)
+
+● Unique User ID (randomly generated by AU3D or by KWS)
+
+In-Game and Usage Information
+
+● Gameplay Statistics (e.g., session length, achievements, levels completed)
+
+● Interaction Data (e.g., movements, controller inputs)
+
+● Voice Chat: We may enable voice chat features in-game. Voice data is typically processed in real-time and not stored unless necessary for moderation, abuse-prevention measures, or as otherwise required by law.
+
+● Device Identifiers and Device Information (e.g., IP address, device model, operating system)
+
+Support/Contact Information
+
+● Communications: If a child contacts us for support, we may collect the child’s email address (if shared under parent supervision) or any other information voluntarily disclosed in the message.
+
+3. HOW WE USE THE INFORMATION
+
+We use the information collected from children for internal purposes only, as permitted by COPPA, such as:
+
+● Account Creation and Management: Creating an account or user profile, verifying the child’s age, and obtaining parental consent via KWS.
+
+● AU3D Functionality: Enabling gameplay, voice/chat functions (if applicable), and personalized in-game settings.
+
+● Analytics and Improvements: Understanding how players interact with AU3D to improve features, optimize performance, and enhance user experience.
+
+● Customer Support: Processing and responding to inquiries or requests for technical assistance.
+
+● Legal Compliance and Safety: Detecting security incidents, preventing fraud, and complying with legal obligations, including COPPA.
+
+4. PARENTAL CONSENT
+
+COPPA Requirements: We do not knowingly collect personal information from children under 13 unless and until we have obtained verifiable parental consent or unless an exception to COPPA’s parental consent requirement applies.
+
+KWS Process. We use KWS to:
+
+● Verify the child’s age during account setup.
+
+● Obtain and record verifiable parental consent when required.
+
+● Provide parents with tools to review, delete, or control the personal information associated with their child’s account.
+
+If Consent is Not Granted: If a parent chooses not to provide consent, or withdraws consent later, the child’s access to certain features or areas of the Services may be restricted or disabled.
+
+5. HOW WE DISCLOSE INFORMATION
+
+We do not sell, rent, or otherwise disclose children’s personal information, except in the following limited circumstances:
+
+● Service Providers. We may share information with trusted third-party vendors (including KWS) that assist in operating AU3D, processing transactions, or performing analytics on our behalf. These parties are obligated to use the information only for the purposes for which we disclose it and to maintain its confidentiality.
+
+● Legal Compliance. We may disclose a child’s personal information if required by law or legal process, or if we believe in good faith that such disclosure is necessary to comply with legal obligations, protect our rights or property, investigate fraud, or respond to government requests.
+
+● Business Transfers. In the event of a merger, acquisition, bankruptcy, restructuring, or sale of all or a portion of our assets, children’s personal information may be transferred to the acquiring entity. We will ensure that such entity agrees to protect the information consistent with this COPPA Notice.
+
+6. PARENTS’ RIGHTS
+
+Review and Deletion of Information
+
+Parents have the right to review, delete, and/or prevent further collection of their child’s personal information at any time. To do so, please contact us at the email or phone number listed in Section 1. We may require you to verify your identity to ensure the security of the child’s account.
+
+Withdrawal of Consent
+
+Parents may withdraw consent at any time by contacting us. Upon withdrawal, we will promptly delete the child’s personal information from our records, unless retention is required by law. Revoking consent may limit the child’s access to certain features within AU3D.
+
+7. DATA SECURITY AND RETENTION
+
+Security Measures: We employ reasonable security measures (technical, administrative, and physical) designed to protect children’s personal information from unauthorized access, disclosure, alteration, and destruction.
+
+Data Retention: We retain personal information about children only as long as necessary to fulfill the purposes outlined in this COPPA Notice or as required by law. When personal information is no longer needed, we take reasonable steps to securely delete or de-identify it.
+
+9. INTERNATIONAL DATA TRANSFERS (IF APPLICABLE)
+
+If you are located outside of the country where our servers or our service providers are located, please note that we may transfer personal information across international borders. We take steps to ensure that such transfers comply with applicable data protection laws and that appropriate safeguards are in place. For more information on our data transfer controls please review the Privacy Notice. 
+
+10. CHANGES TO THIS NOTICE
+
+We may update this COPPA Notice from time to time to reflect material changes in our practices or for other operational, legal, or regulatory reasons. When we do, we will revise the “Effective Date” at the top of the Notice and, if required by law, provide additional notice (e.g., by email to the parent or a notice within the Services).

@@ -1,0 +1,224 @@
+PRIVACY POLICY
+Effective Date: November 18, 2024
+
+This Privacy Policy (“Policy”) describes the manner in which VRChat Inc. (“VRChat”, “we,” or “us”) collects, uses, and discloses Personal Information about you through our: (a) website at www.vrchat.com and related subdomains (our “Site”), (b) related websites, networks, and desktop applications (each, a “Desktop Client”), (c) VR headset applications (each, a “VR Client” and together with any Desktop Clients, “Clients”), (d) software development kits for use in connection with any technology or services made available by or on behalf of VRChat (each, an “SDK”), and (e) other services provided by us and on which a link to this Policy is displayed. In this Policy, we refer to our Sites, Clients, SDKs, and other related services as the “Platform.” This Policy is incorporated into and is subject to the VRChat Terms of Service (available at www.vrchat.com/legal). It is supplemented by our Cookie Policy and U.S. State Data Privacy Disclosure.
+
+By using the Platform, you consent to the collection, use, and disclosure of your Personal Information as described in this Policy. “Personal Information” means any information relating to an identified or identifiable individual.
+
+
+Table of Contents
+
+1. Personal Information We Process
+2. Cookies and Similar Technologies
+3. How We Use the Personal Information We Collect
+4. When We Disclose Information
+5. Your Rights and Choices
+6. Legal Bases for Processing European Personal Information
+7. Third-Party Services
+8. Children’s Privacy
+9. Data Security
+10. Retention
+11. International Visitors
+12. Changes and Updates to this Policy
+13. How to Contact Us
+
+1. Personal Information We Process
+We may collect a variety of Personal Information from or about you or your devices from various sources, as described below. Where required by applicable law, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so.
+
+A. Personal Information You Provide to Us
+
+When you register for or use the Platform, we may collect Personal Information about you and we may link this Personal Information with other Personal Information about you. You may provide us with Personal Information in various ways on the Platform:
+
+Registration and Account Information. If you sign up for a Platform account, we will ask you to provide your email address and birth date, and allow you to create a username and password. In the future, we may ask that you provide additional information that we will associate with your account in order to protect the security of your account, enable certain account features, or ensure VRChat complies with legal requirements.
+
+Payment and Billing Information. If you choose to: (i) access or use parts of the Platform that require payments or fees, (ii) purchase a subscription that provides you access to extra features on the Platform, or (iii) become a Seller and request payout for VRChat Credits, you may be required to provide Personal Information to third parties such as gaming platforms (e.g., Steam and Meta) and VRC Creator Economy partners (e.g., Tilia). Those third parties may send your Personal Information to payment processors who will process transactions on our behalf and to VRChat so we can verify your payment and provide you with any applicable features or benefits. We may also collect and retain Personal Information relating to the transactions you conduct on the Platform, such as purchasing for Seller Content or paid-only roles within groups using VRChat Credits.
+
+User Communications. If you contact us directly, we may collect additional information about you. For example, if you contact us with an inquiry or to receive customer support, we will ask that you provide your name and email address. We will also collect the contents of the message you send and other information you choose to provide.
+
+Uploaded Images. Certain Platform features may allow you to upload images for use in your profile or the Platform. If you utilize these features, you should not upload pictures that can be used to identify you or any other person.
+
+Informational Emails, Marketing, and Newsletters. If you sign up to receive informational or marketing email from us, then we will collect Personal Information from you, such as your first and last name, email address, and your areas of interest. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve the Platform.
+
+Job Application Materials. If you apply for a job with us directly, you may provide us with your resume, full name, and contact details (including your mailing address, email address, and phone number), and any other information that you choose to provide to us. If you apply for a job with us through a third-party platform (such as LinkedIn or Lever), we will collect the information you make available to us through such a third-party platform.
+
+B. Personal Information We Collect When You Use the Platform 
+
+Usage Information. We may collect or infer Personal Information about you based on how you use and interact with the Platform. For example, we may create a profile associated with your account that will allow us to apply your previously expressed preferences and settings to any “world” or “instance” that you join.
+
+In-Platform Communications. When using the Platform, including participation in different “worlds” or “instances,” you may disclose Personal Information to us and to other users of the Platform. This may occur when you engage in conversations using your microphone (if enabled), text chats, and other user-to-user interactions.
+
+Movement Information. When accessing the Platform through a VR Client, we may collect information about the physical movements of your fingers, hands, head, and other parts of your body depending on the equipment that you use. Please note that we will only receive Movement Information from devices or services that you choose to use or enable in conjunction with the Platform.
+
+Eye Movement Information. If the eye tracking feature is enabled, we may collect information about the location and movement of your eyes. For clarity, we only receive data about the relative position and movement of your eyes from your headset or other hardware; we do not collect or scan your retinas or eyes to gather this information.
+
+C. Information Collected via Automated Means  
+
+Location Information. We may use your IP address to obtain general information about the physical location from which you are connecting to the Internet. We do not collect any precise geolocation data from your devices or otherwise. 
+
+Cookies and Similar Technologies. We utilize cookies and other tracking technologies in conjunction with the Platform. For details about the types of tracking technologies we use, why we use them, and certain choices available to you related to these technologies, please see our Cookie Policy.
+
+D. Personal Information We Receive from Third Parties
+
+Our Partners. We may receive Personal Information about you from third parties such as analytics services, vendors providing additional information on your IP address (for example, approximate location), gaming infrastructure and platform providers, social networks, and advertisers. Such additional information includes additional IP address information, information about your device, and connected social media account details. We may combine this information with other Personal Information we have about you. 
+
+Social Media. We use Sprout Social's social media management tool to manage and process our social media accounts (e.g., Facebook, Instagram). Sprout Social compiles posts and messages relevant to VRChat from many social media channels we use clearly and effectively for analysis and processing. More information about Sprout Social’s privacy practices is available here: https://sproutsocial.com/privacy-policy/.
+
+Fraud Prevention & Anti-Cheat Information. We aim to provide users with a positive user experience on the Platform by minimizing abuse of VRChat or other users on the Platform. We strictly enforce prohibitions against cheating, hacking, account stealing and any other unauthorized or fraudulent activity on the Platform. We use a variety of anti-cheat and fraud prevention technologies to help us identify and prevent malicious activity. These services may collect and analyze data about your device and the software on your computer to detect cheating and misuse of the Platform. For example, these services may monitor your gameplay and device’s RAM, processes, communications, and file storage and otherwise detect the use of “modified clients.” One such service we use is Easy Anti-Cheat from Epic Games, Inc.
+
+2. How We Use the Personal Information We Collect
+We collect, use, and disclose Personal Information for the following purposes: 
+
+Providing you access to the Platform. We may use your Personal Information to operate and provide you access to the Platform and its features. If you are using a VR Client, we will also collect Movement Information and Eye Movement Information from your devices. We only use this information to animate your avatar and will never use your Movement Information or Eye Movement Information to identify you or for authentication purposes.
+
+Securing and protecting the Platform. We may use your Personal Information to identify and prevent fraud, abuse, and cheating on the Platform, to secure the Platform, and to respond to trust and safety issues that may arise. 
+
+Enforcing the Terms of Service. We may use your Personal Information to enforce and identify violations of VRChat’s Terms of Service. This may include working with Service Providers that utilize artificial intelligence to determine if content that you upload to the Platform is legal and otherwise in compliance with the Terms of Service.
+
+Communicating with you. We may use your Personal Information to provide you with customer support and to communicate with you for administrative purposes (for example, to provide information that you request and important updates about your account). If you submit a user support ticket, we may utilize artificial intelligence to ensure it is categorized and responded to appropriately. With your consent, we may also communicate with you for marketing purposes.
+
+Maintaining, fixing, and improving the Platform. We may use your Personal Information to maintain the Platform, fix errors in the Platform, improve the Platform, and develop new products, features, and services. 
+
+Understanding Platform usage and personalizing your experience. We may use your Personal Information to assess the effectiveness of the Platform, analyze usage trends, and personalize the Platform based on your preferences and interactions. 
+
+Advertising and marketing to you. We may use your Personal Information for marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable, or otherwise of interest to you. 
+
+Evaluating your job application. We may use Personal Information you voluntarily provide to process your job application.
+
+Facilitating purchases and payouts. If you pay for access to certain features or purchase VRChat Credits we may use your Personal Information to provide you with access to them. If you purchase a subscription, we may process your Personal Information for as long as you maintain that subscription. Additionally, if you request approval to become a Seller in the VRC Creator Economy or request payout for Earned Credits, we may use your personal information to decide whether to grant your request.
+
+Facilitating Promotions. We may use your Personal Information to facilitate contests, sweepstakes, and other promotions in which you choose to participate. 
+
+Meeting our legal obligations. We may use your Personal Information for compliance purposes, including to enforce this Policy or our Terms of Service, to defend our legal rights, to comply with our legal obligations and internal policies, and as may be required by applicable laws and regulations or requested by any judicial process or governmental agency. 
+
+Other purposes. We may also use Personal Information for other purposes for which we provide specific notice at the time the Personal Information is collected. 
+
+More details about our uses of specific categories of Personal Information are available in our U.S. State Data Privacy Disclosure. 
+
+3. When We Disclose Information
+We may disclose Personal Information to third parties in the following circumstances: 
+
+Vendors and Service Providers. We work with third-party service providers who provide Platform security, website development, application development, hosting, payment, maintenance, marketing, advertising, and other services in connection with the Platform. We allow some of these third parties to access and process your Personal Information if doing so is necessary for them to provide us (or you) with their services.. 
+
+Analytics Services. We allow analytics services to access Personal Information to help us understand how the Platform is used and user preferences. 
+
+Other Users. You may choose to disclose Personal Information to other users of the Platform via conversations, chats, engaging in VRChat Credit transactions, or other user-to-user interactions. Additionally, we may disclose your username to other users if we are investigating a violation of the TOS or applicable law, or if it is reasonably necessary to do so to resolve a dispute.
+
+As Required by Law and Similar Disclosures. We may disclose Personal Information about you if required to do so by law or in the good-faith belief that such action is necessary to comply with any applicable laws, in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies. 
+
+To Enforce Legal Claims. We reserve the right to disclose Personal Information about you that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Platform and any facilities or equipment used to make the Platform available, or (v) protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights, property, or safety of others. 
+
+Merger, Sale, or Other Asset Transfers. Personal Information may be disclosed and otherwise transferred to an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets. Where required by applicable law, you will be informed of such disclosure and we will obtain your consent. 
+
+Aggregate and De-Identified Data. We may make certain aggregate or otherwise de-identified information available to third parties for various purposes, including compliance with various reporting obligations, unless we are prohibited from doing so under applicable law. 
+
+At Your Direction. We may disclose information (including Personal Information, Movement Information, or Eye Movement Information) to third parties if you expressly direct or authorize us to do so. For example, if you enable the Open Sound Control protocol (“OSC”) in the Platform and use it to connect to third-party devices or services, you are directing us to share your Movement Information or other information (which may include Personal Information) to those third-party devices and services. Please note that if you direct us to share information with a third party, via OSC or otherwise, that does not have a Service Provider relationship with VRChat, we will not have control over how that third party processes or shares your information. Your information will be governed by that third party’s privacy policy, which you should review before directing us to share information with such third party. 
+
+4. Facial Tracking
+Certain Platform features use video and camera input of your facial movements and translates that input to animate the facial features of your avatar. 
+
+Please review the following carefully. By enabling features that utilize facial tracking, you agree to the terms in this Section. Facial tracking is disabled by default, but if you enable it, it will remain “on” until you disable it. You can disable the feature at any time by adjusting your Platform settings.
+
+How Does it Work?
+
+Facial tracking features work by using video of your face to detect movements of your facial features. We analyze your facial features in real-time and animate your avatar so that its face reflects what your face is doing. Both you and other users will be able to see these avatar animations.
+
+We do not use the video of your face or the analysis of your facial features to identify you. 
+
+How Long is Facial Tracking Data Retained?
+
+The video and analysis information related to your facial features is processed and retained on your device in temporary memory only as long as necessary to animate your avatar. After that, the video and analysis information is erased from memory. The analysis information created by this process is deleted in real-time after it has been used to animate your avatar and cannot be saved.
+
+Who Can Access Facial Tracking Data?
+
+The video and analysis information related to your facial features is not shared with VRChat or any third parties.
+
+5. Your Rights and Choices
+You may decline to share certain Personal Information with us, in which case we may not be able to provide to you some of the features and functionality of the Platform. You may update your profile information through the Platform. If you wish to access, update, delete or amend any other Personal Information we hold about you, or invoke any of the other rights described below, you may contact us at by submitting a request at https://vrch.at/support and selecting the Support Category “I want to invoke my rights concerning my personal information.”
+
+Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain Personal Information for backups, routine archiving, preventing fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so, to the extent permitted under applicable law.
+
+A. Marketing
+
+If you have agreed to receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt out from receiving commercial email from us by submitting a request at https://vrch.at/support and selecting the Support Category “I want to invoke my rights concerning my personal information” or by writing to us at the address given at the end of this Policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Platform.
+
+Please be aware that if you opt out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten business days for us to process your request, and you may continue receiving promotional communications from us during that period. Additionally, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Platform. 
+
+B. European User Privacy Rights
+
+If you reside in the European Economic Area (“EEA”), the United Kingdom, or Switzerland (together, “Europe”), you have additional rights relating to your Personal Information, including: 
+
+The right to know whether we have retained your Personal Information. If we have retained your Personal Information, you may also request to access and receive a copy of your information and certain details about how we collect and process such information.  
+
+The right to receive a copy of your Personal Information in a structured, commonly used and machine-readable format and to request that we transmit such information to another controller without hindrance where technically feasible; 
+
+The right to request that we delete your Personal Information; 
+
+The right to request that we correct your Personal Information; and 
+
+The right to request that we stop using all or some of your Personal Information, or that we limit our use of your Personal Information. This includes objecting to our use of Personal Information that is based on VRChat’s legitimate interests. We may continue to process information after such objection or request to the extent required or permitted by law. 
+
+In addition, you also have the right to appeal a decision we have made regarding the exercise of your privacy rights and to lodge a complaint with a supervisory authority, including in your country of residence, place of work, or where an incident took place. 
+
+Our legal bases for processing your Personal Information are described in Section 6, below. You may withdraw any consent you previously provided to us regarding the processing of your Personal Information at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of any processing that occurred before you withdrew your consent. 
+
+C. California and Other U.S. State Privacy Rights
+
+If you reside in California or another U.S. state that has passed privacy laws, you have additional rights relating to your Personal Information.
+
+For additional details and disclosures required under California and other state laws, and more information about your rights, please review our detailed U.S. State Data Privacy Disclosure.
+
+D. Brazilian User Privacy Rights  
+
+If you reside in Brazil, you have additional rights relating to your Personal Information, including: 
+
+The right to know and access the Personal Information we have collected about you; 
+
+The right to request that we delete your Personal Information; and 
+
+The right to request that we correct your Personal Information. 
+
+If you would like to invoke your rights and request that we take action regarding your Personal Information, or if you have any questions, concerns, or complaints about how we are using your Personal Information, you may contact us at by submitting a request at https://vrch.at/support and selecting the Support Category “I want to invoke my rights concerning my personal information.” You can also submit a complaint to the National Data Protection Authority of Brazil through its official channels.
+
+F. Requesting Additional Information 
+
+Your ability to invoke the rights described above may be limited under applicable law. Before fulfilling your request, and to the extent permitted under applicable law, we may ask you to provide additional information to allow us to verify your identity. 
+
+6. Legal Bases for Processing Personal Information
+If you are located in the European Union or Brazil, we only process your Personal Information when we have a valid “legal basis,” including as set forth below:
+
+Consent. You have expressly consented to the use of your Personal Information, for example when you consent to receive electronic marketing communications or when you consent to the use of Cookies. 
+
+Contract. We need your Personal Information to fulfill a contractual obligation to you. For example, we may need to process your Personal Information to link your VRChat Plus subscription to your account or credit your account with VRChat Credits that you have purchased.
+
+Compliance with a Legal Obligation. We have a legal obligation to use your Personal Information, for example to comply with tax and accounting obligations. 
+
+Legitimate Interests. We or a third party have a legitimate interest in using your Personal Information to provide you access to the Platform. Specifically, we have a legitimate interest in using your Personal Information for product development and internal analytics purposes, and to improve the safety, security, and performance of the Platform.  
+
+We only rely on our or a third party’s legitimate interests to process your Personal Information when these interests are not overridden by your rights and interests.
+
+7. Third-Party Services
+The Platform may contain features or links to websites and services provided by third parties. Additionally, the Platform may enable you to share Personal Information directly with third parties (for example, using OSC).  Any Personal Information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Platform. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Platform. We encourage you to learn about third parties’ privacy and security policies before providing them with Personal Information. 
+
+8. Children’s Privacy
+Our Site is a general audience site not directed to children under the age of 13, and we do not knowingly collect Personal Information from children. If you become aware that your child or any child under your care has provided us with Personal Information without your consent, please contact us and we will delete any such account or profile and associated Personal Information.
+
+9. Data Security
+We use certain physical, managerial, and technical safeguards that are designed to improve the integrity and security of Personal Information that we collect and maintain. Please be aware that no security measures are perfect or impenetrable. We cannot and do not guarantee that Personal Information about you will not be accessed, viewed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+
+10. Retention
+We take measures to delete your Personal Information or keep it in a form that does not permit identifying you when your Personal Information is no longer necessary for the purposes for which we process it unless we are required by law to keep your Personal Information for a longer period. When determining the specific retention period, we consider various factors, such as the type of service provided to you, the nature and length of our relationship with you, and mandatory retention periods provided by applicable law and statutes of limitations.  
+
+We only use your Movement Information and Eye Movement Information to animate your avatar in real time. We do not store records of this information. 
+
+11. International Visitors
+The Platform is hosted in the United States. If you choose to use the Platform from Europe or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that your Personal Information is processed and stored outside of those regions, in particular in the United States. Also, we may transfer your data from the United States to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Platform. By providing any information, including Personal Information, on or to the Platform, you agree with such transfer, storage, and processing. 
+
+If you are located in Europe, we will comply with applicable data protection laws when transferring your Personal Information outside of your country.  
+
+If you are from Europe, we may transfer your Personal Information to countries which have been found to provide adequate protection by the EU Commission or the UK government, to recipients who use contractual protections for the transfer of Personal Information, or to recipients who have adopted Binding Corporate Rules. We may also rely on an appropriate legal derogation. For more information about how we transfer outside of Europe, or to obtain a copy of the contractual safeguards we use for such transfers, you may contact us using the contact details as indicated in the “How to Contact Us” section below.
+
+12. Changes and Updates to this Policy
+Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify this Policy, we will make it available through the Platform, and indicate the effective date. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Platform for the first time after such material changes are made. Your continued use of the Platform after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of this Policy. 
+
+13. How to Contact Us
+VRChat Inc. (located at 548 Market St., PMB 93053, San Francisco, CA 04104-5401, United States) is the entity responsible for the processing of your Personal Information. Please contact us with any questions or comments about this Policy, Personal Information we have collected or otherwise obtained about you, our use and disclosure practices, or your consent choices by contacting us at https://vrch.at/support. 

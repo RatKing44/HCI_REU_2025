@@ -1,0 +1,149 @@
+Beat Saber Privacy Policy
+Effective June 22, 2023
+
+Who are you?
+
+1.1. This Privacy Policy describes Meta's ("we", "our") practices for handling your personal information when you play Beat Saber.
+
+1.2. If you have problems understanding anything in this document, do not hesitate to contact us at privacy@beat-games.com.
+
+What will I find in this document?
+
+2.1. Below you will learn why, to what extent, for what purpose and for how long we process your personal data. You will also learn who will have access to your personal data and what your rights are in relation to the processing of the personal data.
+
+2.2. We respect your right to privacy and, despite the fact that we try to process as much information as possible as anonymised or pseudonymised data, we want you to know that your data is safe with us.
+
+What kind of personal data about me are you collecting and why?
+
+3.1. So that you can play Beat Saber and we are able to repair and improve the game, we collect the following data about you: identification data (avatar, nickname or user ID under which you are registered etc.); technical data (data about your device etc.); data concerning your use of Beat Saber (when and how and how successfully you play the game).
+
+We only use these personal data for the two below-specified purposes: to enable the functioning of Beat Saber and to create statistics contributing to the improvement of the game.
+
+3.2. Firstly, we need your personal data described above (identification data, technical data and game use data) so that the game is functional, including leaderboards etc. The reason for such processing is based on the necessity to fulfill the agreement between you and us. For people in the EU under the age of majority (under 18 years in most EU countries) who have a limited ability to enter into an enforceable contract, the reason for such processing is based on our legitimate interests.
+
+3.3. We need to process some of your personal data for our statistical purposes. These include either purely technical data (i.e. information not containing any personal data at all) or the other above-described data in pseudonymised form, that is, highly confidential data to which we assign a special number so that nobody except for us is able to match the data to the existing identifier using the given number. This processing is based on our legitimate interest, which is the continuous improvement of the game. You have the right to object to this processing in the manner described below.
+
+How will you process my personal data?
+
+4.1. With regard to the above-mentioned purposes, it is apparent that we do not need your personal data in a form that enables your identification. For this reason, we shall process the information (especially statistics) in aggregated (non-identifiable) form as much as possible, and where this is not possible, we shall process the information in pseudonymised form as much as possible.
+
+Do you need my consent for the processing?
+
+5.1. In fact, we do not need your consent as for all forms of processing, we have other legitimate reasons (because this is necessary for fulfillment of agreement or it is in our legitimate interest).
+
+For how long will you retain my personal data?
+
+6.1. We will keep your personal data for as long as it is necessary to fulfill the purposes for which it was collected as described above and in accordance with applicable law.
+
+Only for the time for which you play Beat Saber and at the maximum until you've deleted your account on any platform that you used to purchase our game or until you've ensured the complete erasure of Beat Saber from your library on any given platform. However, most of the data is kept in aggregate form only (when you cannot be identified) and only for as long as necessary.
+
+Do I have to give my personal data to you? Do you have to process them?
+
+7.1. If you want to play Beat Saber, we need the said personal data as per paragraph 3 above so that we can enable you to play. Unfortunately, this is not possible without your personal data.
+
+To whom do you transfer my personal data?
+
+8.1. We have the personal data in our possession for the whole time. To some partners, we provide aggregated statistics (not personal data) only.
+
+8.2. Apart from us, however, your personal data are also processed by the platforms through which you have purchased our game and, in those circumstances, your personal data will be processed in accordance with the relevant platform's privacy notice:
+
+8.2.1. PlayStation™
+
+8.2.2. Steam
+
+8.2.3. Oculus
+
+8.3. Your personal data are also processed by Unity, which ensures the creation and management of statistics concerning our game as mentioned above. (Privacy policy available at: https://unity3d.com/legal/privacy-policy)
+
+8.4. We share information globally, in accordance with this Privacy Policy. Information controlled by Meta will be transferred or transmitted to, or stored and processed in, the United States or other countries outside where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide you with the services as set forth in the End User Licence Agreement and to globally operate and provide Beat Saber. We use standard contractual clauses approved by the European Commission and rely on the European Commission's adequacy decisions about certain countries, as applicable, for data transfers from the European Economic Area ("EEA") to the United States and other countries.
+
+What rights do I have?
+
+Content of this section
+
+9.1. Having regard to the fact that we process information concerning you, you may assert certain rights about which we want to inform you in this section. You may assert all of the rights in writing at the below-given postal addresses or by email at privacy@beat-games.com.
+
+Right to access
+
+9.2. You have the right to access the processed personal data concerning you.
+
+Right to rectification
+
+9.3. We only need to process your accurate personal data. You may have the right to the rectification of your personal data that is inaccurate or incomplete.
+
+Right to erasure
+
+9.4. You may have the right, on certain grounds, to request that we erase your personal data.
+
+9.5. For example, if you think that your personal data are no longer needed for the purpose for which they have been processed or if you believe that your personal data are processed by us illegally, you may demand that we erase your personal data.
+
+9.6. However, it is not always possible to erase the personal data provided by you, for instance, because of the fact that if we erased them, you would no longer be able to play Beat Saber.
+
+Right to data portability
+
+9.7. Another right that you may assert is the right to data portability based on which we will hand over the personal data provided by you in a commonly used, structured and machine-readable format or, if you require, we will transfer them to another controller of your own choice, where such transfer is technically feasible.
+
+9.8. If you believe that your personal data processed by us are incorrect, you may have the right to demand that we restrict the processing of your personal data for a period necessary to verify the accuracy of your personal data and to rectify them if needed. You also have this right if the processing of your personal data is illegal, but you do not wish for your personal data to be erased; if we no longer need your personal data for the above-specified processing purposes, but you demand that your personal data are preserved for the purposes of the determination, exercise or defence of your legal claims; or if you have objected to the processing of your personal data on the basis of our legitimate interest.
+
+Right to object to processing on the basis of legitimate interest
+
+9.9. With regard to the fact that some of your personal data we process on the basis of our legitimate interest, you may have the right to object to this processing. Based on the objection, we will consider whether it really is in our interest to process your personal data for the given purpose. If we conclude that we do not have any significant legitimate reasons that prevail over your interests, rights or freedoms, we will terminate the processing of and destroy such personal data.
+
+9.10. However, it needs to be stressed that such objection should be well-founded. Therefore, we recommend you to firstly obtain all of the necessary information at the above-mentioned email address.
+
+Right to complain
+
+9.11. To make a complaint about our handling of your information, please write to us at privacy@beat-games.com. You may also raise the matter with your local data protection regulator. Additional information for filing complaints can be found at paragraphs 10, 11 and 12 below.
+
+Contact information
+
+10.1. If you are a European region resident, excluding residents of the United Kingdom, the data controller responsible for your information is Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland, (“FIL” or “we” and “us”), which you can contact online or by post at:
+
+Meta Platforms Ireland Limited
+ATTN: Privacy Operations
+Merrion Road
+Dublin 4
+D04 X2K5, Ireland
+
+You may also contact the Data Protection Officer for Meta Platforms Ireland Limited. You also have the right to lodge a complaint with Meta Platforms Ireland's lead supervisory authority, the Irish Data Protection Commissioner or your local supervisory authority.
+
+10.2 If you are not a European region resident, and unless stated elsewhere in this Privacy Policy, the data controller responsible for your information is Meta Platforms, Inc, ATTN: Privacy Operations, 1601 Willow Road, Menlo Park, CA 94025, United States, which you can contact online or by post at:
+
+Meta Platforms, Inc.
+ATTN: Privacy Operations
+1601 Willow Road
+Menlo Park, CA 94025 USA
+
+Privacy notice for United States residents
+
+11.1 You can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.
+
+Privacy Agent contact information for Korean residents
+
+12.1. Meta Platforms, Inc. is responsible for your information and has designated Privacy Agent Korea Co., Ltd as our Local Agent in Korea for questions relating to our processing of Korean users' privacy-related complaints. The foregoing rights may be exercised through your agent or legal representative. You can contact our Local Agent online or by phone or post at:
+
+Privacy Agent Korea Co., Ltd.
+ATTN: Representative director Chun Hee Park
+28, Saemunan-ro 5ga-gil, Jongno-gu, Seoul
+Phone number: +82 2737 0455 Email address: korealocalagent@support.facebook.com
+
+Korea Privacy Notice
+
+Measures to ensure the security of your information
+
+We make our best efforts to ensure the security of your information by implementing managerial and technical measures, including:
+
+We have established and implemented internal policies for our management of personal information, including appointment of executives responsible for privacy and training requirements for employees and contractors responsible for processing personal information.
+
+We take measures to control and restrict access to personal information, including implementation of access controls and logging access to personal information.
+
+We use other appropriate measures to help protect your information from loss, theft, misuse and unauthorised access. These measures include computer safeguards, such as intrusion prevention and detection systems, antivirus software and firewalls, as well as physical access controls to our buildings and files.
+
+Delegation of processing personal data and overseas transfer of personal data
+
+As set out in our Privacy Policy, we share personal data with service providers and other third parties. These third parties may be located outside Korea.
+
+The third parties who receive personal data which may relate to people in Korea include those set out in the table below. The table also includes a summary of certain aspects of the arrangements between us and the third parties. This table is static and will be updated periodically.
+
+Name	Contact information	Items of personal information to be transferred	Recipient's purpose of use	Destination country	Transfer date and method	Recipient's period of retention and use
+UNITY INC	privacy@processunity.com	User data	Provide measurement, analytics and other business services	United States	Transmission from time to time when required to provide the services by the following methods: Transmission as contemplated in the contract	For as long as necessary to provide the services or as otherwise agreed in the service contract.
