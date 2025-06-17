@@ -48,8 +48,30 @@ https://www.jstor.org/stable/1473169?seq=7
 def calculate_dale(text, easy_words):
     stemmer = PorterStemmer()
     tokenizer = TweetTokenizer()
-    tokens = tokenizer.tokenize(text)
+
+    # Split on sentence-ending punctuation followed by space or newline
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+
+    # Filter out empty strings
+    sentences = [s for s in sentences if s.strip()]
+
+    # Filter out captions
+    for i in range(len(sentences)):
+        if '\n' in sentences[i]:
+            sentences[i] = sentences[i].rsplit('\n', 1)[1].strip()
+
+    num_sentences = len(sentences)
+
+    # Extract all the word tokens, remove any that aren't alphanumeric
+    tokens = []
+    for s in sentences:
+        tokens += tokenizer.tokenize(s)
+
     tokens = [t for t in tokens if t.isalnum()]
+
+    num_words = len(tokens)
+    if num_words == 0:
+        return -1
 
     # find number of words in text
     num_words = len(tokens)
@@ -61,10 +83,20 @@ def calculate_dale(text, easy_words):
         nltk.download('punkt')
         num_sentences = len(sent_tokenize(text))
 
-    num_dale_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric()]) # find number of complex words according to dale-chall easy words list
+    # find number of complex words according to dale-chall easy words list
+    num_dale_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric()])
 
-    avg_sentence_len = num_words / num_sentences # find average sentence length
-    percent_difficult_words = num_dale_complex / num_words * 100 # percent of words not in dale-easy list
+    # find average sentence length
+    avg_sentence_len = num_words / num_sentences 
+
+    # find percent of words not in dale-easy list
+    percent_difficult_words = num_dale_complex / num_words * 100
+
+    # dale-chall readability formula calculation
+    score = (0.0496 * avg_sentence_len) + (0.1579 * percent_difficult_words) 
+    if (percent_difficult_words > 5): # adjusted if percentage of difficult words is 5%
+        score += 3.6365
+
 
     # can ignore/delete later--debugging print statements
     debugPrint(str(num_sentences) + " sentences, " + str(num_words) + " words")
@@ -72,11 +104,6 @@ def calculate_dale(text, easy_words):
     # for t in tokens:
     #     if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric():
     #         debugPrint(t)
-
-    # dale-chall readability formula calculation
-    score = (0.0496 * avg_sentence_len) + (0.1579 * percent_difficult_words) 
-    if (percent_difficult_words > 5): # adjusted if percentage of difficult words is 5%
-        score += 3.6365
 
     return round(score) # final score rounded
 
