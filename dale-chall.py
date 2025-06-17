@@ -8,10 +8,10 @@ import re
 
 debug = False
 
+# used for debugging
 def debugPrint(s):
     if debug:
         print(s)
-
 
 def clean_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -33,7 +33,18 @@ def clean_file(file_path):
         file.write(text)
     return text
 
-def dale(text, easy_words):
+'''
+Calculates the readability of a text using the Dale-Chall readability score.
+
+4.9 or lower	grades 4 and below
+5.0-5.9     	grades 5 - 6
+6.0-6.9	        grades 7 - 8
+7.0-7.9     	grades 9 - 10
+8.0-8.9	        grades 11 - 12
+9.0-9.9	        grades 13 - 15 (college)
+10.0 and above  grades 16+ (college graduate)
+'''
+def calculate_dale(text, easy_words):
     stemmer = PorterStemmer()
     tokenizer = TweetTokenizer()
     tokens = tokenizer.tokenize(text)
@@ -49,10 +60,10 @@ def dale(text, easy_words):
         nltk.download('punkt')
         num_sentences = len(sent_tokenize(text))
 
-    num_dale_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric()])     # find number of complex words according to dale-chall easy words list
+    num_dale_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric()]) # find number of complex words according to dale-chall easy words list
 
-    avg_sentence_len = num_words / num_sentences 
-    percent_difficult_words = num_dale_complex / num_words * 100
+    avg_sentence_len = num_words / num_sentences # find average sentence length
+    percent_difficult_words = num_dale_complex / num_words * 100 # percent of words not in dale-easy list
 
     # can ignore/delete later--debugging print statements
     debugPrint(str(num_sentences) + " sentences, " + str(num_words) + " words")
@@ -61,6 +72,7 @@ def dale(text, easy_words):
     #     if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric():
     #         debugPrint(t)
 
+    # final dale-chall readability calculation, rounded
     return round((0.0496 * avg_sentence_len) + (0.1579 * percent_difficult_words))
 
 
@@ -69,7 +81,7 @@ def dale_chall(text):
     with open(dale_path) as f:
         easy_words = set(line.strip() for line in f)
 
-    return dale(text, easy_words)
+    return calculate_dale(text, easy_words)
 
 def data():
     #with open("test.txt") as f:
