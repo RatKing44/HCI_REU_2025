@@ -13,24 +13,22 @@ def debugPrint(s):
     if debug:
         print(s)
 
+def strip_ascii(text):
+
+    text = "".join(
+        char for char in text
+        if 31 < ord(char) < 127 and ord(char) not in (40, 41) or ord(char) == 10
+    )
+
+    return text
+
 def clean_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
 
-    # Remove non-ASCII characters
-    text = re.sub(r'[^\x00-\x7F]+', ' ', text)
-
-    # Remove multiple spaces and newlines
-    #text = re.sub(r'\s+', ' ', text).strip()
-
-    # Replace tabs with spaces
-    #text = text.replace('\t', ' ')
-
-    # Remove any remaining non-alphanumeric characters except spaces
-    #text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
-
-    with open(file_path, 'w', encoding='utf-8') as file:
-        file.write(text)
+    text = strip_ascii(text)
+    text = re.sub(r'\n+', '\n', text)
+            
     return text
 
 '''
@@ -62,6 +60,9 @@ def calculate_dale(text, easy_words):
 
     num_sentences = len(sentences)
 
+    if num_sentences == 0:
+        return -1
+
     # Extract all the word tokens, remove any that aren't alphanumeric
     tokens = []
     for s in sentences:
@@ -72,16 +73,6 @@ def calculate_dale(text, easy_words):
     num_words = len(tokens)
     if num_words == 0:
         return -1
-
-    # find number of words in text
-    num_words = len(tokens)
-    if num_words == 0:
-        return -1
-    try: # find number of sentences in text
-        num_sentences = len(sent_tokenize(text))
-    except LookupError:
-        nltk.download('punkt')
-        num_sentences = len(sent_tokenize(text))
 
     # find number of complex words according to dale-chall easy words list
     num_dale_complex = sum([1 for t in tokens if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric()])
@@ -98,12 +89,12 @@ def calculate_dale(text, easy_words):
         score += 3.6365
 
 
-    # can ignore/delete later--debugging print statements
-    debugPrint(str(num_sentences) + " sentences, " + str(num_words) + " words")
-    debugPrint(str(num_dale_complex) + " / " + str(num_words) + " = " + str(round(percent_difficult_words)) + "% difficult words")
-    # for t in tokens:
-    #     if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric():
-    #         debugPrint(t)
+    # # can ignore/delete later--debugging print statements
+    # debugPrint(str(num_sentences) + " sentences, " + str(num_words) + " words")
+    # debugPrint(str(num_dale_complex) + " / " + str(num_words) + " = " + str(round(percent_difficult_words)) + "% difficult words")
+    # # for t in tokens:
+    # #     if stemmer.stem(t.lower()) not in easy_words and not t.isnumeric():
+    # #         debugPrint(t)
 
     return round(score) # final score rounded
 
@@ -124,10 +115,10 @@ def data():
 
 if __name__ == '__main__':
     from pathlib import Path
-    for file in Path("EULAS").rglob('*.txt'):
-        with open(file) as f:
+    for file in Path("EULAS_Danny").rglob('*.txt'):
+        with open(file, encoding='utf-8') as f:
             clean_file(f.name)
             text = f.read()   
-            fname = f.name.removeprefix('EULAS')
+            fname = f.name.removeprefix('EULAS_Danny')
                                 
             print(fname, data(), sep=' - Score: ')

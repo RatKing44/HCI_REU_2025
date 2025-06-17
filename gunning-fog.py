@@ -204,7 +204,7 @@ def data():
 if __name__ == '__main__':
     from pathlib import Path
     for file in Path("EULAS_Danny").rglob('*.txt'):
-        with open(file) as f:
+        with open(file, encoding='utf-8') as f:
             clean_file(f.name)
             text = f.read()   
             fname = f.name.removeprefix('EULAS_Danny')
