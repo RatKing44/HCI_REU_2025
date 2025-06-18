@@ -188,12 +188,12 @@ def flesch_kincaid(text):
     # find average sentence length
     avg_sentence_len = num_words / num_sentences
 
-    num_syllables = 0 # number of words with more than 3 syllables
+    num_syllables = 0 # number ofsyllables in the text
     for token in tokens:
         num_syllables += sylco(token)
 
-    # final gunning fog index calculation, rounded
-    return 206.835 - 1.105 * avg_sentence_len - 84.6 * num_syllables/num_words
+    # final flesch-kincaid grade calculation, rounded
+    return round(0.39 * avg_sentence_len + 11.8 * num_syllables/num_words - 15.59)
 
 def data():
     score = flesch_kincaid(text)
